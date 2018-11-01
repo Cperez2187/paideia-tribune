@@ -10,7 +10,7 @@ const Search = props => {
   return (
     <React.Fragment>
       <div className="search">
-        {algolia &&
+        {/* {algolia &&
           algolia.appId && (
             <InstantSearch
               appId={algolia.appId}
@@ -22,7 +22,8 @@ const Search = props => {
               <Hits hitComponent={Hit} />
               <Pagination />
             </InstantSearch>
-          )}
+          )} */}
+        <h1>Coming Soon!</h1>
       </div>
 
       {/* --- STYLES --- */}
@@ -86,7 +87,7 @@ const Search = props => {
 };
 
 Search.propTypes = {
-  algolia: PropTypes.object.isRequired,
+  // algolia: PropTypes.object.isRequired,
   theme: PropTypes.object.isRequired
 };
 

@@ -12,11 +12,12 @@ import AlgoliaIcon from "!svg-react-loader!../images/svg-icons/search-by-algolia
 
 const SearchPage = props => {
   const {
-    data: {
-      site: {
-        siteMetadata: { algolia, facebook }
-      }
-    }
+    // data: {
+    //   site: {
+    //     siteMetadata: { algolia, facebook }
+    //   }
+    // }
+    data
   } = props;
 
   return (
@@ -28,12 +29,12 @@ const SearchPage = props => {
               <AlgoliaIcon />
             </div>
 
-            <Search algolia={algolia} theme={theme} />
+            <Search algolia="" theme={theme} />
           </Article>
         )}
       </ThemeContext.Consumer>
 
-      <Seo facebook={facebook} />
+      <Seo facebook="" />
 
       {/* --- STYLES --- */}
       <style jsx>{`
@@ -61,11 +62,6 @@ export const query = graphql`
   query SearchQuery {
     site {
       siteMetadata {
-        algolia {
-          appId
-          searchOnlyApiKey
-          indexName
-        }
         facebook {
           appId
         }
@@ -73,3 +69,9 @@ export const query = graphql`
     }
   }
 `;
+
+// algolia {
+//   appId
+//   searchOnlyApiKey
+//   indexName
+// }
