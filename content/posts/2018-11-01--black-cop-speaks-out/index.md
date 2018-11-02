@@ -1,7 +1,7 @@
 ---
 title: BLACK COP SPEAKS OUT
 subtitle: Waging Empathy for Men in Blue
-category: LAW AND ORDER 100
+category: ENVIRONMENTAL
 cover: randy-colas-606902.jpg
 author: Officer Black
 about: ' earned a bachelor’s degree in criminal justice with a minor in psychology. He enjoys working on the police tactical team, until he advances to the Federal Bureau of Investigations. For 8-years, he’s aimed to reverse the stigma of police in black communities.'

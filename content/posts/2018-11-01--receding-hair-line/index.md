@@ -1,7 +1,7 @@
 ---
 title: RECEDING HAIR LINE AND NATURALLY NAPPY
 subtitle: Haircare for Black People in White America
-category: DOSE OF CONFIDENCE
+category: SOCIAL
 cover: chris-knight-475073.jpg
 portrait: andre-cobb.jpg
 author: Andre Cobb

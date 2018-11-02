@@ -1,7 +1,7 @@
 ---
 title: TRUMP THIS
 subtitle: Memo To America
-category: POLITICALLY SPEAKING
+category: ENVIRONMENTAL
 cover: anthony-garand-500755.jpg
 portrait:
 author: Anthony KaDarrell Thigpen

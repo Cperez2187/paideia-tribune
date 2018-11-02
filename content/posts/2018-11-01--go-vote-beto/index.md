@@ -1,7 +1,7 @@
 ---
 title: 'GO VOTE: BETO'
 subtitle: Texans Teaming Up for Beto
-category: POLITICALLY SPEAKING
+category: ENVIRONMENTAL
 cover: griffin-taylor-1115756.jpg
 portrait: Swati_Joshi_photo.jpeg
 author: Swati Joshi

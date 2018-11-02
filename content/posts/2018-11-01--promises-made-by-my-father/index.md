@@ -1,7 +1,7 @@
 ---
 title: PROMISES MADE BY MY FATHER
 subtitle: "Dad, You Promised" 
-category: FINGERTIP INSPIRATION
+category: SPIRITUAL
 cover: derek-owens-729363.jpg
 portrait: cameron-jones.jpeg
 author: Cameron Jones

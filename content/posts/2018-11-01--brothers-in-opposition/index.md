@@ -1,7 +1,7 @@
 ---
 title: BROTHERS IN OPPOSITION
 subtitle: Attorney Argues for Black Lives
-category: LAW AND ORDER 100
+category: ENVIRONMENTAL
 cover: neonbrand-580104.jpg
 portrait: 
 author: Attorney Black
