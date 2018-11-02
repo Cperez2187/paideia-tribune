@@ -63,8 +63,16 @@ export const postQuery = graphql`
         title
         subtitle
         author
+        about
         category
         cover {
+          childImageSharp {
+            resize(width: 300) {
+              src
+            }
+          }
+        }
+        portrait {
           childImageSharp {
             resize(width: 300) {
               src

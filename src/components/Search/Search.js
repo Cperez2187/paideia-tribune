@@ -1,11 +1,11 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { InstantSearch, SearchBox, Hits, Stats, Pagination } from "react-instantsearch/dom";
+// import { InstantSearch, SearchBox, Hits, Stats, Pagination } from "react-instantsearch/dom";
 
-import Hit from "./Hit";
+// import Hit from "./Hit";
 
 const Search = props => {
-  const { algolia, theme } = props;
+  // const { algolia, theme } = props;
 
   return (
     <React.Fragment>

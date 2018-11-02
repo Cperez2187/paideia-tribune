@@ -24,7 +24,7 @@ const Post = props => {
     post: {
       html,
       fields: { prefix, slug },
-      frontmatter: { title, subtitle, author, category }
+      frontmatter: { title, subtitle, author, about, category, portrait }
     },
     authornote,
     // facebook,
@@ -32,6 +32,8 @@ const Post = props => {
     prev: prevPost,
     theme
   } = props;
+
+  const src = portrait ? portrait.childImageSharp.resize.src : "";
 
   return (
     <React.Fragment>
@@ -42,7 +44,7 @@ const Post = props => {
       <Bodytext html={html} theme={theme} />
       <footer>
         <Share post={post} theme={theme} />
-        <Author note={authornote} theme={theme} />
+        <Author author={author} note={about} portrait={src} theme={theme} />
         <NextPrev next={nextPost} prev={prevPost} theme={theme} />
         {/* <Comments slug={slug} facebook={facebook} theme={theme} /> */}
       </footer>

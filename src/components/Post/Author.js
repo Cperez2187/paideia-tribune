@@ -5,18 +5,21 @@ import config from "../../../content/meta/config";
 import avatar from "../../images/jpg/greece.jpg";
 
 const Author = props => {
-  const { note, theme } = props;
+  const { author, note, portrait, theme } = props;
 
   return (
     <React.Fragment>
       <div className="author">
         <div className="avatar">
           <img
-            src={config.gravatarImgMd5 == "" ? avatar : config.gravatarImgMd5}
+            src={config.gravatarImgMd5 == "" ? portrait || avatar : config.gravatarImgMd5}
             alt={config.siteTitle}
           />
         </div>
-        <div className="note" dangerouslySetInnerHTML={{ __html: note }} />
+        <div className="note">
+          <span className="name">{author}</span>
+          {note}
+        </div>
       </div>
 
       {/* --- STYLES --- */}
@@ -40,6 +43,9 @@ const Author = props => {
         .avatar img {
           width: 100%;
         }
+        .name {
+          font-weight: 700;
+        }
         .note {
           font-size: 0.9em;
           line-height: 1.6;
@@ -58,6 +64,8 @@ const Author = props => {
 };
 
 Author.propTypes = {
+  portrait: PropTypes.string,
+  author: PropTypes.string.isRequired,
   note: PropTypes.string.isRequired,
   theme: PropTypes.object.isRequired
 };
