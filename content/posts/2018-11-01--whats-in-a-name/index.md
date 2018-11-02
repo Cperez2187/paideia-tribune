@@ -3,7 +3,7 @@ title: WHAT'S IN A NAME
 subtitle: The Truth Is in The Title
 category: INTELLECTUAL
 cover: santi-vedri-707620.jpg
-portrait: Clara-Thigpen-Blog-Photo.jpeg
+portrait: Clara-Thigpen-Blog-Photo.jpg
 author: Clara Thigpen
 about: ' has been an educator for more than 20 years, working with urban and rural Title I schools from the Midwest to Southwest regions. She has experience in private, traditional public, and charter schools.'
 ---

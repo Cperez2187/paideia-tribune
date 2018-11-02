@@ -3,7 +3,7 @@ title: THINK ABOUT IT
 subtitle: Deprogramming Group Think 
 category: SOCIAL
 cover: cristina-gottardi-585081-unsplash.jpg
-portrait:
+portrait: anthony-dark.jpg
 author: Anthony KaDarrell Thigpen
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience in publishing. AP Style news writing, marketing and photography are his passions.'
 ---

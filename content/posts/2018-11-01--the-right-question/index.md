@@ -3,7 +3,7 @@ title: THE RIGHT QUESTION
 subtitle: Becoming a Brilliant Brainstormer 
 category: SOCIAL
 cover: zach-lucero-802489.jpg
-portrait:
+portrait: anthony-dark.jpg
 author: Anthony KaDarrell Thigpen
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience in publishing. AP Style news writing, marketing and photography are his passions.'
 ---

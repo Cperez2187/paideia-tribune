@@ -2,7 +2,7 @@
 title: UNLEARNING THE BRAINWASH
 subtitle: Transforming into Your Best You
 category: SOCIAL
-portrait: 
+portrait: anthony-dark.jpg
 cover: william-iven-19844.jpg
 author: Anthony KaDarrell Thigpen
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience in publishing. AP Style news writing, marketing and photography are his passions.'

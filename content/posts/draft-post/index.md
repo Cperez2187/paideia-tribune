@@ -1,8 +1,11 @@
 ---
 title: This is a draft post
+subtitle:
 category: "sayings"
 cover: photo-1490474418585-ba9bad8fd0ea.jpg
-author: greg lobinski
+portrait:
+author: Max Powers
+about:
 ---
 
 Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:
