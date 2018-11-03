@@ -35,7 +35,7 @@ In overwhelming despair, she cries out for her black knight, her strength and pr
 
 Days became nights and nights became days. The Sun that she loved so much has betrayed her and now is her enemy.
 
-“Keep fighting,” echoed the voices of our ancestors in her head. “Hold on just a little while longer.”
+*“Keep fighting”*, echoed the voices of our ancestors in her head. *“Hold on just a little while longer”*.
  Her mind reminisced of home; a place she’d never physically return.
    
 She sang the songs of her ancestors silently in her heart: songs of hope, love, life and longevity.
@@ -43,7 +43,7 @@ The lyrics of those priceless and precious songs sustained her.
 
 Those words were food for her soul. The rhythmic and harmonic beauty of her ancestors accompanied her on this journey of uncertainty.
     
-“How can so many Nubian queens, kings and princesses be captured and chained and ripped from their in own country?” Royalty stripped of nobility and navigated into an endless nightmare.
+*“How can so many Nubian queens, kings and princesses be captured and chained and ripped from their in own country?”* Royalty stripped of nobility and navigated into an endless nightmare.
 
 How can she emerge out of this death trap and once again be restored to a place of celestial beauty and grace? Finally, her voyage ended.
 
@@ -86,11 +86,11 @@ Strong men were silenced as she screamed in and yelled out for help. The men tha
 When the men stood up for themselves and their women, they would be beaten tortured or 
 killed “.
 
-To save their young boys from this form of torture and humiliation the mothers would say to their sons. “Look at your father,” she said while feeling forced to explain to little black boys. “Make sure you don’t grow up to be like him. 
+To save their young boys from this form of torture and humiliation the mothers would say to their sons. “Look at your father,” she said while feeling forced to explain to little black boys. *“Make sure you don’t grow up to be like him"*. 
 
-“Look at how they talk to him, disrespect him, mentally abuse him, boss him around, and beat him with whips,” she said in anger. “Look at how they kill him and decorate their garden trees with ornaments of lynched scarecrows.”
+*“Look at how they talk to him, disrespect him, mentally abuse him, boss him around, and beat him with whips”*, she said in anger. *“Look at how they kill him and decorate their garden trees with ornaments of lynched scarecrows”*.
 
-“Look my son,” she’d say. “Your father will always be present and absent in your life at the same time.” She didn’t know that in saving her son that she would lose her husband.
+*“Look my son”*, she’d say. *“Your father will always be present and absent in your life at the same time”*. She didn’t know that in saving her son that she would lose her husband.
  
 This dichotomy of being absent and present at the same time has haunted and cursed the relationships of black families for centuries.
 

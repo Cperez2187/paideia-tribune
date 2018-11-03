@@ -5,14 +5,14 @@ category: SPIRITUAL
 cover: derek-owens-729363.jpg
 portrait: cameron-jones.jpeg
 author: Cameron Jones
-about: ' is a senior pastor of The Rock Church in Evansville, Indiana. Upon graduating from the University of Southern Indiana, he continues with his passion to teach others how to practically apply of God’s word in daily living.'
+about: ' is a senior pastor of The Rock Church in Evansville, Indiana. Upon graduating from the University of Southern Indiana, he continues with his passion to teach others how to practically apply God’s word in daily living.'
 ---
 
 *DIGITAL BIBLE STUDY* – He called me crying and his voice was quivering. I wasn’t sure how to respond, so I listened. 
 
 It was my childhood mentor on the phone – financially stable, spiritual-minded, family orientated, smart and confident, but moved to tears by a message from his Heavenly Father. 
 
-Prior to calling, he listened to my audio message that pierced his heart. That message was titled, “Not Beggars, But Sons”.
+Prior to calling, he listened to my audio message that pierced his heart. That message was titled, *“Not Beggars, But Sons”*.
 
 Afterward, he called to thank me for sharing, with hopes of hearing more.
 
@@ -26,7 +26,7 @@ There is one title I had absolutely nothing to do with. Individuals can’t acqu
 
 Whether you know it or not, the Bible is referencing you too whenever you see son. Therefore, ladies, as I reference the term son throughout this blog article, it’s not related to gender, rather position. 
 
-The bible frequently uses the term "son or sons" in reference to both males and females. Many times, in the Bible the word son can be translated to the Hebrew word ben, which simply means children, or child. 
+The bible frequently uses the term *"son or sons"* in reference to both males and females. Many times, in the Bible the word son can be translated to the Hebrew word ben, which simply means children, or child. 
 
 For some, the title son is one of pride, honor, and notoriety; for others it’s one of shame, frustration, and humiliation. 
 
@@ -56,7 +56,7 @@ Oftentimes, my son will ask me for something, depending on what I'm doing, I may
 
 Many times, I’ve made future promises and given my word, assuring him that despite my inability to grant his immediate request, I will at a later date.
 
-If there is one thing that my son always remembers, it is when I’ve made a promise.  There is nothing that tugs on my heart strings quite like these three these words, "Dad you promised". 
+If there is one thing that my son always remembers, it is when I’ve made a promise.  There is nothing that tugs on my heart strings quite like these three words, *"Dad you promised"*. 
 
 I am not the only Father that has made promises to his children. Our Heavenly has also made promises to us.  
 
@@ -70,7 +70,7 @@ As a believer, you are a son – and as a son, you are an heir. This knowledge m
 
 You, my friend, have a heavenly inheritance. One that can be accessed in this life and the one to come.
 
-> *Proverbs 13:22 “A good man leaves and inheritance to his children’s children.”*
+> *Proverbs 13:22 “A good man leaves an inheritance to his children’s children.”*
 
 Our Father has left us a wonderful will. That will consist of 66 books that contain over 8,000 promises. 
 
