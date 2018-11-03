@@ -28,26 +28,26 @@ const Contact = props => {
     props.form.validateFields((err, values) => {
       if (!err) {
         console.log("Received values of form: ", values);
-        sendMessage(values);
+        // sendMessage(values);
       }
     });
   }
 
-  function sendMessage(values) {
-    fetch("/", {
-      method: "POST",
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "contact", ...values })
-    })
-      .then(() => {
-        console.log("Form submission success");
-        navigate("/success");
-      })
-      .catch(error => {
-        console.error("Form submission error:", error);
-        this.handleNetworkError();
-      });
-  }
+  // function sendMessage(values) {
+  //   fetch("/", {
+  //     method: "POST",
+  //     headers: { "Content-Type": "application/x-www-form-urlencoded" },
+  //     body: encode({ "form-name": "contact", ...values })
+  //   })
+  //     .then(() => {
+  //       console.log("Form submission success");
+  //       navigate("/success");
+  //     })
+  //     .catch(error => {
+  //       console.error("Form submission error:", error);
+  //       handleNetworkError();
+  //     });
+  // }
 
   function handleNetworkError(e) {
     console.log("submit Error");

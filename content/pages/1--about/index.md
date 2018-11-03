@@ -11,7 +11,7 @@ Thinkers engaging solutions nationwide
 
 Paideia is a continuous active learning process that empowers and equips individuals to analytically think for themselves. It is derived from a philosophical practice used for subject-based instruction in ancient Greek Cultures. Our lives are interconnected and interdependent, and Paideia-Tribune takes a unique approach to critically thinking and creatively writing about various disciplines. How is an identity or a culture constructed or created? The most effective way to answer questions of this magnitude is to take a holistic approach that embodies multiple aspects or life disciplines. The Paideia-Tribune is a melting pot of nationwide thinkers writing to contribute toward cultural wellness. We aim to educate, inspire, entertain and raise awareness. Our mission is to serve as champions of logic strengthening communities from seven perspectives; spiritually, physically, socially, emotionally, intellectually, occupationally and environmentally. The word “Tribune” means champion of the people. We are a nationwide tribe of literary champions reviving the lost art of independent thought - Paideia-Tribune. 
 
-> “Writing is thinking. To write well is to think clearly. That’s why it’s so hard,” said Pulitzer Prize-winning historian David McCullough.
+> *“Writing is thinking. To write well is to think clearly. That’s why it’s so hard,”* said Pulitzer Prize-winning historian David McCullough.
 
 ### FUTURE BOOK PUBLICATIONS
 

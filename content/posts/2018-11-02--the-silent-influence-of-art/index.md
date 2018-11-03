@@ -3,7 +3,7 @@ title: THE SILENT INFLUENCE OF ART
 subtitle: Digging Deep into Your Imagination
 category: SOCIAL
 cover: genesis-castillo-578071.jpg
-portrait:
+portrait: reginald-woods.jpg
 author: Reginald Woods
 about: ' studied visual communications at Westwood College. He has 17-years of art experience within multiple mediums. Tattooing, graphic design, logo creation, fashion design, illustration, painting and fine arts are his passions.'
 ---
