@@ -26,10 +26,10 @@ showcased the talent of about 70 middle school students stage front.
 
 The full production featured lights, cameras and action.
 
-They performed 4 songs, *Rocky Mountain Romp by Brian Balmages, Harbinger by Robert Sheldon*, 
-*Leader of the Class by Ed Huckeby*, and *March Onward by John O’Reilly and Mark Williams*.
+They performed 4 songs, *Rocky Mountain Romp* by Brian Balmages, *Harbinger* by Robert Sheldon, 
+*Leader of the Class* by Ed Huckeby, and *March Onward* by John O’Reilly and Mark Williams.
 
-Practiced paid off – the advanced band members blended a cross between melody and harmony that 
+Practice paid off – the advanced band members blended a cross between melody and harmony that 
 prompted repeated applause from proud parents.
 
 Music makes something magical happen that benefits learning even beyond reading the notes on the pages.
