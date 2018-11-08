@@ -109,6 +109,7 @@ class Header extends React.Component {
           h2 {
             font-weight: ${theme.font.weight.standard};
             font-size: ${theme.font.size.xxs};
+            color: ${theme.color.brand.primary};
             letter-spacing: 0;
             margin: 0;
           }
@@ -165,7 +166,7 @@ class Header extends React.Component {
                 color: ${theme.color.neutral.white};
               }
               h2 {
-                color: ${theme.color.neutral.gray.d};
+                color: ${theme.color.brand.primary};
               }
             }
           }
@@ -206,7 +207,7 @@ class Header extends React.Component {
                   color: ${theme.color.neutral.white};
                 }
                 h2 {
-                  color: ${theme.color.neutral.gray.d};
+                  color: ${theme.color.brand.primary};
                 }
               }
             }

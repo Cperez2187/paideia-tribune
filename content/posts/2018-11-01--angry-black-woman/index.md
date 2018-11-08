@@ -19,7 +19,7 @@ The utter degradation of dragging her plucked up body across thousands of miles 
 Her soft-beautiful-precious petals drying up in the dark shadows and silhouettes of a large wooden vase.
 
 Heavy tears and drops of blood were the only moisturizer available for her tired and weary soul. 
-Her mind racing constantly without seizing, like a long-distance marathon runner but in this race there’s no medals and no desired finish line.
+Her mind racing constantly without ceasing, like a long-distance marathon runner but in this race there’s no medals and no desired finish line.
 Haunted by fear and uncertainty, never knowing if she would proudly blossom again.
 
 Aimlessly and desperately wanting to die, constantly wondering if this wooden vase would become her floating coffin. 

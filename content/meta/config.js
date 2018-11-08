@@ -1,9 +1,10 @@
 module.exports = {
   siteTitle: "Paideia Tribune", // <title>
   shortSiteTitle: "Paideia Tribune", // <title> ending for posts and pages
-  siteDescription: "Thinkers engaging solutions nationwide.",
+  siteDescription: "Thinkers Engaging Solutions Nationwide.",
   siteUrl: "https://paideiatribune.com",
   // pathPrefix: "",
+  // TODO: Change site image
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
@@ -13,7 +14,7 @@ module.exports = {
 
   /* info */
   headerTitle: "Paideia Tribune",
-  headerSubTitle: "Thinkers engaging solutions nationwide",
+  headerSubTitle: "Thinkers Engaging Solutions Nationwide",
 
   /* manifest.json */
   manifestName: "Paideia Tribune",
