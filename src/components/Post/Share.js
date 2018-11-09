@@ -76,6 +76,7 @@ const PostShare = props => {
           flex-direction: column;
           justify-content: center;
           align-items: center;
+          margin: ${theme.space.inset.ml};
         }
 
         .links {

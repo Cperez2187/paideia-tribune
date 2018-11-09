@@ -34,20 +34,20 @@ const Contact = props => {
     });
   }
 
-  // function sendMessage(values) {
-  //   fetch("/", {
-  //     method: "POST",
-  //     headers: { "Content-Type": "application/x-www-form-urlencoded" },
-  //     body: encode({ "form-name": "contact", ...values })
-  //   })
-  //     .then(() => {
-  //       console.log("Form submission success");
-  //     })
-  //     .catch(error => {
-  //       console.error("Form submission error:", error);
-  //       handleNetworkError();
-  //     });
-  // }
+  function sendMessage(values) {
+    fetch("/", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: encode({ "form-name": "contact", ...values })
+    })
+      .then(() => {
+        console.log("Form submission success");
+      })
+      .catch(error => {
+        console.error("Form submission error:", error);
+        handleNetworkError();
+      });
+  }
 
   function handleNetworkError(e) {
     console.log("submit Error");
@@ -60,11 +60,13 @@ const Contact = props => {
           <div className="form">
             <Form
               name="contact"
-              // onSubmit={handleSubmit}
+              onSubmit={handleSubmit}
               method="POST"
               data-netlify="true"
-              // data-netlify-honeypot="bot-field"
+              data-netlify-honeypot="bot-field"
             >
+              <input type="hidden" name="form-name" value="contact" />
+              <input type="hidden" name="bot-field" />
               <FormItem label="Name">
                 {getFieldDecorator("name", {
                   rules: [
