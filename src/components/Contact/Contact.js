@@ -29,7 +29,6 @@ const Contact = props => {
       if (!err) {
         // console.log("Received values of form: ", values);
         sendMessage(values);
-        // navigate("/success");
       }
     });
   }
@@ -42,6 +41,7 @@ const Contact = props => {
     })
       .then(() => {
         console.log("Form submission success");
+        navigate("/success");
       })
       .catch(error => {
         console.error("Form submission error:", error);
@@ -61,7 +61,6 @@ const Contact = props => {
             <Form
               name="contact"
               onSubmit={handleSubmit}
-              action="/success"
               method="POST"
               data-netlify="true"
               data-netlify-honeypot="bot-field"
