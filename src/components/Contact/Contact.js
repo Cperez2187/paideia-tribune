@@ -27,9 +27,9 @@ const Contact = props => {
     e.preventDefault();
     props.form.validateFields((err, values) => {
       if (!err) {
-        console.log("Received values of form: ", values);
-        // sendMessage(values);
-        navigate("/success");
+        // console.log("Received values of form: ", values);
+        sendMessage(values);
+        // navigate("/success");
       }
     });
   }
@@ -61,6 +61,7 @@ const Contact = props => {
             <Form
               name="contact"
               onSubmit={handleSubmit}
+              action="/success"
               method="POST"
               data-netlify="true"
               data-netlify-honeypot="bot-field"
