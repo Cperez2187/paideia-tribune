@@ -1,6 +1,6 @@
 ---
-title: MODERN LEADERSHIP
-subtitle: 'PART 1: The Age of the Quick Fix'
+title: MODERN LEADERSHIP, PART 1
+subtitle: The Age of the Quick Fix
 category: SPIRITUAL
 cover: samuel-zeller-4138.jpg
 portrait: Thomas-Hands-Clasped-Smiling.jpg

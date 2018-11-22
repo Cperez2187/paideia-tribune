@@ -1,6 +1,6 @@
 ---
-title: MODERN LEADERSHIP
-subtitle: 'PART 2: Survival in a Hostile Environment'
+title: MODERN LEADERSHIP, PART 2
+subtitle: Survival in a Hostile Environment
 category: SPIRITUAL
 cover: samuel-zeller-4138.jpg
 portrait: Thomas-Hands-Clasped-Smiling.jpg
