@@ -5,7 +5,7 @@ category: PHYSICAL
 cover: anna-pelzer-472429.jpg
 portrait: Zach-Giovanelli.jpg
 author: Zach Giovanelli
-about: ' Giovanelli is in his 2nd year of undergraduate studies at Chandler Gilbert Community College majoring in astronautical engineering. He is a fitness enthusiast.'
+about: ' is in his 2nd year of undergraduate studies at Chandler Gilbert Community College majoring in astronautical engineering. He is a fitness enthusiast.'
 ---
 
 **Healthy Choices**, *Steps to Living Your Best Life* – Health is a habit – it’s a pattern or regular tendency that is difficult to give up. Health must evolve into a lifestyle choice.

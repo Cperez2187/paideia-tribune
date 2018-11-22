@@ -5,10 +5,10 @@ category: INTELLECTUAL
 cover: jeffrey-hamilton-571428.jpg
 portrait: lauren-gray-152-1000x600.jpg
 author: Lauren Gray
-about: ' is a life-long educator with a bachelor’s degree from the University of North Texas in human development and family studies. She exudes positivity, professionalism and passion for creating programs that help students maximize their potential.'
+about: ' Gray is a life-long educator with a bachelor’s degree from the University of North Texas in human development and family studies and master’s degree in secondary education. She exudes positivity, professionalism and passion for creating programs that help students maximize their potential.'
 ---
 
-LIVING ROOM TO CLASSROOM, Teachable Moments – Since pre-school, throughout college, and until now, I’ve been in school.
+**LIVING ROOM TO CLASSROOM**, *Teachable Moments* – Since pre-school, throughout college, and until now, I’ve been in school.
 
 ![unsplash.com](./jeffrey-hamilton-571428.jpg)
 

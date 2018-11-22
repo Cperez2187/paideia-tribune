@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Link } from "gatsby";
+import { OutboundLink } from "gatsby-plugin-google-analytics";
 import "prismjs/themes/prism-okaidia.css";
 
 import asyncComponent from "../AsyncComponent";
@@ -10,6 +11,8 @@ import Meta from "./Meta";
 import Author from "./Author";
 // import Comments from "./Comments";
 import NextPrev from "./NextPrev";
+
+import literacyLogo from "../../images/jpg/Literacy_blue.jpg";
 
 const Share = asyncComponent(() =>
   import("./Share")
@@ -51,6 +54,12 @@ const Post = props => {
           </Link>
           <span> is appreciated.</span>
         </div>
+        <div className="literacy-logo">
+          <OutboundLink href="https://anthonythigpen.com">
+            <img src={literacyLogo} />
+            <span>Click to create your legacy.</span>
+          </OutboundLink>
+        </div>
         <Author author={author} note={about} portrait={src} theme={theme} />
         <NextPrev next={nextPost} prev={prevPost} theme={theme} />
         {/* <Comments slug={slug} facebook={facebook} theme={theme} /> */}
@@ -63,6 +72,24 @@ const Post = props => {
 
           .link {
             color: ${theme.color.brand.primary};
+          }
+        }
+
+        .literacy-logo {
+          display: flex;
+          justify-content: center;
+          text-align: center;
+          margin-top: ${theme.space.m};
+
+          img {
+            height: 12.7vh;
+          }
+
+          span {
+            display: flex;
+            &:hover {
+              color: ${theme.color.brand.primary};
+            }
           }
         }
       `}</style>
