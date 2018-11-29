@@ -80,9 +80,9 @@ Don’t go along to get along and don’t allow people to keep putting you in th
 
 In fact, run and don’t look back.
 
-Since I’ve committed to the decision to exterminate blood suckers, my life has taken on new meaning.
+Since I’ve committed to the decision to exterminate energy suckers, my life has taken on new meaning.
 
-I say blood suckers with no sarcasm intended. Either people add to your life or take away – they will appreciate or depreciate you. 
+I say energy suckers with no sarcasm intended. Either people add to your life or take away – they will appreciate or depreciate you. 
 
 I had no idea just how high my ambitions would launch once I released excess cargo.
 

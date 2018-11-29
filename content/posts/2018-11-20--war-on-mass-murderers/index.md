@@ -66,7 +66,8 @@ These home grown, seemingly normal citizens, psychologically enlist in an army t
 
 They are red, white and blue vigilantes of the innocent, even slaughtering children.
 
-Afterward, they wage an unending war of copycat killers. Across the nation, everyone is a suspect. Everyone is guilty, until proven innocent. 
+*“Their anger, rage and hate resides all across this nation; they are the new copy cat killers waging and perpetuating an unending war. Some even believe that they are
+doing the bidding of their elected leaders.”*
 
 Racial profiling doesn’t expose them. They don’t wear uniforms, have no rank, and they are camouflaged behind the cloak of mental illness.  
 

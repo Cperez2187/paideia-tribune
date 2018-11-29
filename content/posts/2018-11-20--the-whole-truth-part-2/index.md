@@ -40,7 +40,7 @@ General revelation refers to all the things that ignite our senses: feel, taste,
 
 In other words, God’s creation, the earth and all that is in it, resounds of His existence and allows us to known Him; albeit, rather elementary - yet we can know Him. How so?  
 
-It is no mystery that the earth maintains consist cycles and has done so since God created it.  
+It is no mystery that the earth maintains consistent cycles and has done so since God created it.  
 
 For instance, the seasons and the accompanying activities happen consistently without deviation.  
 
@@ -60,7 +60,7 @@ This communication is audible and is written because it is relative to mankind a
 
 The best and only known reliable source of God’s special revelation to mankind is His Word, called the Holy Bible.
 
-The Holy Bible contains special revelation to them who seek Him and desire to know Him beyond what natures reveals.  
+The Holy Bible contains special revelation to them who seek Him and desire to know Him beyond what nature reveals.  
 
 Comprehension of His special revelation comes to those who sincerely desire to know the Father, who responds by revealing Himself more intimately. 
 
