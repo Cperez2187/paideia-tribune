@@ -30,7 +30,7 @@ According to media reports, President Trump ignores questions, echoes rude respo
 
 *“What a stupid question that is,”* he replied to CNN reporter Abby Phillips. *“But I watch you a lot, you ask a lot of stupid questions.”*
 
-[Link to CNN article]('https://www.cnn.com/videos/politics/2018/11/09/trump-press-gaggle-abby-phillip-stupid-question-response-vpx.cnn')
+[Link to CNN article](https://www.cnn.com/videos/politics/2018/11/09/trump-press-gaggle-abby-phillip-stupid-question-response-vpx.cnn)
 
 President Trump’s war is not only against CNN’s black female reporters like April Ryan and Abby Phillips, he seems to want the entire network crumble to its knees.
 

@@ -21,13 +21,13 @@ It’s a complicated story, but I’ll write it as creatively conceivable. Remin
 At a young age, a Bronze star defined my reputation as an American combat hero fighting on the frontlines of war in Iraq. I gained acceptance into one of the countries finest catholic schools for journalism and traveled to every continent on the planet, with the exception of Antarctica. 
 
 Upon marrying the woman I love, I parented the son I always wanted and raised the daughter of my dreams. I’ve penned 7 books, published the works of more than 40 authors, released 2 websites and continue to circulate literature globally. 
-[(Available on Amazon)]('https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Anthony+KaDarrell+Thigpen')  
+[(Available on Amazon)](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Anthony+KaDarrell+Thigpen)  
 
 I’ve photographed the most captivating aspects of God’s creation and wrote international and feature articles for one of the nations leading newspapers. …I could go on.
 
 The point is, I am happy to have lived a healthy and fulfilling life. 
 
-December 11, 1993, one of closet friends, who was 20-years-old at the time, experienced a lengthy wait prior to a complicated heart transplant at Brooke Army Medical Center in San Antonio, Texas.
+December 11, 1993, one of closest friends, who was 20-years-old at the time, experienced a lengthy wait prior to a complicated heart transplant at Brooke Army Medical Center in San Antonio, Texas.
 
 He was diagnosed with an enlarged heart. Recent tests revealed premature ventricular contractions which ultimately concluded in a pending need for another heart procedure. 
 
@@ -51,7 +51,7 @@ Immediately afterward, another guest ambushed me near the sidelines of the kitch
 
 I admit, the ordinarily kind woman usually narrates inspiring stories – the intro left me speechless – the conclusion discombobulated me.
 
-She concluded by explaining how woman said she would do one thing differently, *“I’d let them eat ice cream and treats.”* 
+She concluded by explaining how the woman said she would do one thing differently, *“I’d let them eat ice cream and treats.”* 
 
 Her words were not exactly a typical Thanksgiving testimony.  
 
@@ -75,6 +75,6 @@ It’s never too late to chase your dreams, think bigger and aim higher.
 
 Hopefully you didn’t read this article anticipating my expected end – there’s no impending burial, none that I’m aware of. How are you doing? (Click feedback). 
 
-I’m vaguely reminded of the 2007 Hollywood blockbuster featuring Morgan Freeman and Jackson Nicholson, The Bucket List – Live life to the fullest. 
+I’m vaguely reminded of the 2007 Hollywood blockbuster featuring Morgan Freeman and Jack Nicholson, The Bucket List – Live life to the fullest. 
 
 I plan to keep embracing every sunrise as my new beginning – my bucket list is bottomless.

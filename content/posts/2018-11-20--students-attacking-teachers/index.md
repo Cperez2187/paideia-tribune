@@ -12,10 +12,10 @@ passionate about improving the lives of others especially children."
 ![unsplash.com](./fancycrave-391084.jpg)
 
 **I’VE GOT SOMETHING TO SAY ABOUT THAT, So Should You** – 
-*NEWS, FEATURES & OPINONS, As The World Turns* – After watching this [video]('https://www.youtube.com/watch?v=McPQsOqYzag&feature=youtu.be')
+*NEWS, FEATURES & OPINONS, As The World Turns* – After watching this [video](https://www.youtube.com/watch?v=McPQsOqYzag&feature=youtu.be)
 I am furious. I also came across several other similar clips 
-[clip-1]('https://www.youtube.com/watch?v=88mVCUCPa5m'), [clip-2]('https://www.youtube.com/watch?v=_MDWdkLTdYg') and
-[clip-3]('https://www.youtube.com/watch?v=se6XmxBLF0g').
+[clip-1](https://www.youtube.com/watch?v=88mVCUCPa5m), [clip-2](https://www.youtube.com/watch?v=_MDWdkLTdYg) and
+[clip-3](https://www.youtube.com/watch?v=se6XmxBLF0g).
 
 The first thought that crossed my mind after learning that the student in the first video wasn’t suspended for punching the teacher and cussing was that the teacher should’ve slapped the hell out of him.
 
@@ -69,4 +69,4 @@ He should be disciplined for sure and his lack of anger management should be add
 
 Of course I don’t know anything about the parents or his life at home, but he shouldn’t be left to figure life out by himself. Obviously he’s doing a horrible job.
 
-Think about this: [video]('https://www.youtube.com/watch?v=fdJ8LqwqmrM')
+Think about this: [video](https://www.youtube.com/watch?v=fdJ8LqwqmrM)
