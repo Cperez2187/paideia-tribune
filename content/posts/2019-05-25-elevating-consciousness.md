@@ -1,6 +1,6 @@
 ---
 title: 'ELEVATING CONSCIOUSNESS '
-Subtitle: The Think Tank
+Subtitle: The Think Tankjhjh
 category: INTELLECTUAL
 cover: /images/uploads/improved_blurry.jpg
 portrait: /images/uploads/anthony-dark.jpg
