@@ -3,7 +3,7 @@ title: 'ELEVATING CONSCIOUSNESS '
 Subtitle: The Think Tankjhjh
 category: INTELLECTUAL
 cover: /images/uploads/improved_blurry.jpg
-portrait: /images/uploads/anthony-dark.jpg
+portrait: /images/uploads/img_0008.jpeg
 author: 'Anthony KaDarrell Thigpen '
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience in publishing. AP Style news writing, marketing and photography are his passions.'
 ---
