@@ -12,13 +12,11 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions;
   if (node.internal.type === `MarkdownRemark`) {
     const slug = createFilePath({ node, getNode });
-    console.log("slug:", slug);
     const fileNode = getNode(node.parent);
     const source = fileNode.sourceInstanceName;
-    // const separatorIndex = ~slug.indexOf("--") ? slug.indexOf("--") : 0;
-    // const shortSlugStart = separatorIndex ? separatorIndex + 2 : 0;
     let separatorIndex;
     let shortSlugStart;
+
     if (~slug.indexOf("--")) {
       separatorIndex = slug.indexOf("--");
       shortSlugStart = separatorIndex + 2;
@@ -29,8 +27,6 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
       separatorIndex = 0;
       shortSlugStart = 0;
     }
-    console.log("separator: ", separatorIndex);
-    console.log("slubSub", slug.substring(shortSlugStart));
 
     if (source !== "parts") {
       createNodeField({
