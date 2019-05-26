@@ -69,6 +69,13 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        name: `uploads`,
+        path: `${__dirname}/static/images/`
+      }
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         name: `images`,
         path: `${__dirname}/src/images/`
       }
@@ -99,6 +106,12 @@ module.exports = {
       options: {
         plugins: [
           `gatsby-plugin-sharp`,
+          {
+            resolve: `gatsby-remark-relative-images`,
+            options: {
+              name: `uploads`
+            }
+          },
           {
             resolve: `gatsby-remark-images`,
             options: {

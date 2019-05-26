@@ -2,8 +2,8 @@
 title: THE UNSPOKEN WORD
 subtitle: Literacy in Motion 
 category: EMOTIONAL
-cover: unspoken_word_2.jpg
-portrait: anthony-dark.jpg
+cover: /images/uploads/unspoken_word_2.jpg
+portrait: /images/uploads/anthony-dark.jpg
 author: Anthony KaDarrell Thigpen
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience in publishing. AP Style news writing, marketing and photography are his passions.'
 ---

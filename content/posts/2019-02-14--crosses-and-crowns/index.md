@@ -2,8 +2,8 @@
 title: CROSSES AND CROWNS
 subtitle: Literacy in Motion 
 category: EMOTIONAL
-cover: crosses_and_crowns_blurry.jpg
-portrait: anthony-dark.jpg
+cover: /images/uploads/crosses_and_crowns_blurry.jpg
+portrait: /images/uploads/anthony-dark.jpg
 author: Anthony KaDarrell Thigpen
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience in publishing. AP Style news writing, marketing and photography are his passions.'
 ---
