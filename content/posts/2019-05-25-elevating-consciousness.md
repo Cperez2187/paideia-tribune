@@ -1,5 +1,5 @@
 ---
-title: 'Elevating Consciousness '
+title: 'ELEVATING CONSCIOUSNESS '
 Subtitle: The Think Tank
 category: INTELLECTUAL
 cover: /images/uploads/improved_blurry.jpg
