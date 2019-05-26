@@ -1,0 +1,36 @@
+backend:
+  name: git-gateway
+  branch: feature/add-netlify-cms # Branch to update (optional; defaults to master)
+publish_mode: editorial_workflow
+media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+collections:
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "content/posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Subtitle", name: "Subtitle", widget: "string" }
+      - {
+          label: "Category",
+          name: "category",
+          widget: "select",
+          options:
+            [
+              "EMOTIONAL",
+              "ENVIRONMENTAL",
+              "INTELLECTUAL",
+              "SOCIAL",
+              "OCCUPATIONAL",
+              "SPIRITUAL",
+              "PHYSICAL",
+            ],
+        }
+      # - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Featured Image", name: "cover", widget: "image" }
+      - { label: "Portrait", name: "portrait", widget: "image" }
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "About Author", name: "about", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }

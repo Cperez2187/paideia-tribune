@@ -1,4 +1,5 @@
 //const webpack = require("webpack");
+const { fmImagesToRelative } = require("gatsby-remark-relative-images");
 const _ = require("lodash");
 const BundleAnalyzerPlugin = require("webpack-bundle-analyzer").BundleAnalyzerPlugin;
 const path = require("path");
@@ -7,25 +8,37 @@ const Promise = require("bluebird");
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
+  fmImagesToRelative(node);
   const { createNodeField } = actions;
   if (node.internal.type === `MarkdownRemark`) {
     const slug = createFilePath({ node, getNode });
     const fileNode = getNode(node.parent);
     const source = fileNode.sourceInstanceName;
-    const separtorIndex = ~slug.indexOf("--") ? slug.indexOf("--") : 0;
-    const shortSlugStart = separtorIndex ? separtorIndex + 2 : 0;
+    let separatorIndex;
+    let shortSlugStart;
+
+    if (~slug.indexOf("--")) {
+      separatorIndex = slug.indexOf("--");
+      shortSlugStart = separatorIndex + 2;
+    } else if (slug[11] === "-") {
+      separatorIndex = 11;
+      shortSlugStart = separatorIndex + 1;
+    } else {
+      separatorIndex = 0;
+      shortSlugStart = 0;
+    }
 
     if (source !== "parts") {
       createNodeField({
         node,
         name: `slug`,
-        value: `${separtorIndex ? "/" : ""}${slug.substring(shortSlugStart)}`
+        value: `${separatorIndex ? "/" : ""}${slug.substring(shortSlugStart)}`
       });
     }
     createNodeField({
       node,
       name: `prefix`,
-      value: separtorIndex ? slug.substring(1, separtorIndex) : ""
+      value: separatorIndex ? slug.substring(1, separatorIndex) : ""
     });
     createNodeField({
       node,
