@@ -2,8 +2,8 @@
 title: 'TRAVELING WITH TEAM THIGPEN - LONDON '
 Subtitle: Summer Family Vacations to Hotspots in Europe
 category: SOCIAL
-cover: /images/uploads/7225323862624693997_035a2825.jpg
-portrait: /images/uploads/img_0005.jpeg
+cover: /images/uploads/490e403b-69e3-464a-9266-4cf1d4da61e5.jpeg
+portrait: /images/uploads/89dbd9f6-158f-4c3d-a044-fb9e68ded337.jpeg
 author: 'Anthony KaDarrell Thigpen '
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience in publishing. AP Style news writing, marketing and photography are his passions.'
 ---
