@@ -1,6 +1,6 @@
 ---
 title: 'TRAVEL BLOG '
-Subtitle: 'THE FASHION, FUN AND EIFFEL TOWER OF PARIS '
+Subtitle: 'THE FASHION, FUN AND EIFFEL TOWER OF PARIS'
 category: SOCIAL
 cover: /images/uploads/035a3044.jpg
 portrait: /images/uploads/img_0007.jpeg
