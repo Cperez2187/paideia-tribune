@@ -11,7 +11,7 @@ DIGITAL BIBLE STUDY – Rick Warren has managed to sell more than 30-million boo
 
 I've found that the question or meaning of purpose is not relegated to any particular gender, ethnicity, sexual orientation, or religious group. It is a question common to all of humanity.
 
-It's a question that has survived the span of time; a question that has perplexed both astrophysics and kindergarteners alike. Everyone wants to know the answer to these four words, “Why am I here?”
+It's a question that has survived the span of time; a question that has perplexed both astrophysicists and kindergarteners alike. Everyone wants to know the answer to these four words, “Why am I here?”
 
 The answer to this question has lead men to both the highest of heights, as well as to the depths of despair.
 
@@ -31,7 +31,7 @@ He doesn't offer money, fame, or success. He simply offers them an opportunity t
 
 So what can we learn about purpose from this offer presented by our Savior.
 
-   1.	Our God-given purpose will always involve service to others.
+1. Our God-given purpose will always involve service to others.
 
 Purpose is never selfish. 
 
@@ -41,7 +41,7 @@ You will never discover your true purpose if your only motivation is to get rich
 
 God is most concerned with displaying His love to humanity, and your God-given purpose will always be a means to accomplishing this goal.
 
-   2.	Your purpose will usually look like something that you've always been doing.
+2. Your purpose will usually look like something that you've always been doing.
 
 Notice that Jesus didn't give the disciples new jobs; he simply redirected their focus to something more meaningful.
 
@@ -49,7 +49,7 @@ One of my purposes is to pastor or shepherd God's people; ironically, I've been 
 
 Often times your purpose is simply a broader platform for something that you've always done.
 
-   3.	Your purpose may not produce fulfillment, but it can and should produce contentment.
+3. Your purpose may not produce fulfillment, but it can and should produce contentment.
 
 If we were fulfilled in this life, there would be no need to go to heaven. The Bible makes it clear that we will never be completely fulfilled on this side of glory. 
 
