@@ -11,7 +11,7 @@ about: ' studied journalism at the University of St. Thomas and has over 25 year
 
 “Keep Your Head to the Sky”  
 
-## (STAMPED May 28, 2019/11:45 p.m.) 
+## (STAMPED May 28, 2019/11:45 p.m.)
 
 We are in Paris now. Let me explain.
 
@@ -49,15 +49,11 @@ For those of you that are dreaming of coming to Paris one day – see you in you
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
 
-
-
-
-
 # LONDON, ENGLAND 
 
 Touring the United Kingdom  
 
-## (STAMPED May 27, 2019/11:38 p.m.) 
+## (STAMPED May 27, 2019/11:38 p.m.)
 
 So, we landed in London. 
 
@@ -103,13 +99,7 @@ We may have landed, but it feels like our feet haven’t touched the ground – 
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
 
-
-
-
-
-
-
-# TRAVELING WITH TEAM THIGPEN 
+# TRAVELING WITH TEAM THIGPEN
 
 Summer Family Vacations to Hotspots in Europe
 
