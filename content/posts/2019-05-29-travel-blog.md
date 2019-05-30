@@ -2,18 +2,76 @@
 title: 'TRAVEL BLOG '
 Subtitle: 'THE FASHION, FUN AND EIFFEL TOWER OF PARIS'
 category: SOCIAL
-cover: /images/uploads/035a3044.jpg
-portrait: /images/uploads/img_0007.jpeg
+cover: /images/uploads/035a3052.jpeg
+portrait: /images/uploads/img_2690.jpg
 author: 'Anthony KaDarrell Thigpen '
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience publishing. AP Style news writing, marketing and photography are his passions.'
 ---
+# PARIS NEVER SLEEPS
+
+## (TIME STAMPED: Thursday, May 30, 2019/11:30 a.m.)
+
+**TRAVEL BLOG -**   France’s capital city and global center of love, art, fashion, cooking, good food and culture is simply breath-taking. 
+
+The 19th century city design is crisscrossed with boulevards aligned with bouquets and the Seine River. 
+
+It has so many landmarks aside from the Eiffel Tower. 
+
+Visitors could enjoy an entire vacation here alone. After 3 days, it’s now time for us to venture off to Barcelona, Spain. 
+
+As for Paris, 2 most important things you need to know and 2 most important places you must go. For starters, be prepared to walk. 
+
+It’s so much you’ll never see or experience it you don’t venture off the beaten path.  I know firsthand. 
+
+The previous trip my wife and I enjoyed in Paris, we didn’t nearly walk or see as much. You’ve got to put on those walking shoes to see the hidden jewels of the world! 
+
+Don’t be afraid to leave the tourist areas and see how the French truly live.  We sure did, day and night! 
+
+One New Yorker we witnessed unsuccessfully trying to order “deep fried chicken” at a small curbside French cuisine restaurant - not ideal people. 
+
+Try new things - allow yourself to be vulnerable enough to experiment outside your culture and comfort zone. Of course, stay within your dietary expectations. 
+
+Our diet is vegan, the time in Arizona is 11 hours behind, we don’t speak or read French, we don’t know anyone here and we are 5,500 miles away from our U.S. home. 
+
+That didn’t stop us from being adventurous - Clara and Amber are troopers. 
+
+ I love traveling with my bold and daring family - we care about one another while being adventurous. 
+
+Secondly, don’t come to Paris broke. This place isn’t necessarily as expensive as London, but there’s so much more to do without leaving the city limits. 
+
+As promised, I better mention those two places you absolutely must go in Paris. 
+
+You shouldn’t come this far without at least feeling the energy of exploring the Eiffel Tower and the Louvre Museum. 
+
+For the duration of our journey, we’ll be spending European currency, which makes it easier not having to make exchange. 
+
+Remember, in London we used Pounds. Every country we’re visiting has a different language, food choices, music and overall culture.  
+
+So, instead of comparing place-to-place, we are embracing every experience independently!  
+
+However, I admit I’m biased, Italy is my favorite tourism place on the planet, next to countries in Africa – ultimately, there’s no place like home! 
+
+For now, off to Spain we go.
+
+
+
+Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
+
+
+
+
+
+
+
+
+
 # THE FASHION, FUN AND EIFFEL TOWER OF PARIS 
 
-## (STAMPED May 29, 2019/10:04 p.m.)
+## (TIME STAMPED: Wednesday, May 29, 2019/10:04 p.m.)
 
 
 
-So, I don’t have long because our night isn’t over and we’re heading for a Paris-style late evening meal.
+**TRAVEL BLOG -**    I don’t have long because our night isn’t over and we’re heading for a Paris-style late evening meal.
 
 These people in Paris do not rest.
 
@@ -45,13 +103,17 @@ Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by
 
 
 
-# CHANGE OF PLANS 
 
-“Keep Your Head to the Sky”  
 
-## (STAMPED May 28, 2019/11:45 p.m.) 
 
-We are in Paris now. Let me explain.
+
+
+
+# CHANGE OF PLANS                “Keep Your Head to the Sky”
+
+##   (TIME STAMPED: Tuesday, May 28, 2019/11:45 p.m.) 
+
+**TRAVEL BLOG -**    are in Paris now. Let me explain.
 
 So, today, we discovered that the European International Train workers in Amsterdam are on strike. 
 
@@ -93,13 +155,15 @@ Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by
 
 
 
-# LONDON, ENGLAND 
 
-The United Kingdom  
 
-## (STAMPED May 27, 2019/11:38 p.m.) 
 
-So, we landed in London. 
+
+# LONDON, ENGLAND                    The United Kingdom  
+
+## (TIME STAMPED: Monday, May 27, 2019/11:38 p.m.) 
+
+**TRAVEL BLOG -**   So, we landed in London. 
 
 With a sense of freedom from responsibility mixed with the anxiety of being a foreigner, we secured our luggage, some Pounds (UK Currency), maneuvered to our nearby hotel and purchased Oyster Cards to navigate around beautiful England. My best friend, Ernest, and his lifelong love, Sunny, just happened to be in London as well. 
 
@@ -151,15 +215,15 @@ Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by
 
 
 
+
+
 # TRAVELING WITH TEAM THIGPEN 
 
 Summer Family Vacations to Hotspots in Europe
 
+## (TIME STAMPED: Sunday, May 26, 2019/11 a.m.)
 
-
-## (STAMPED May 26, 2019/11 a.m.)
-
-After one year of planning, securing passports, conducting research, purchasing plane and train tickets, booking hotel rooms in 13 countries, it is time to take flight.
+**TRAVEL BLOG -**    After one year of planning, securing passports, conducting research, purchasing plane and train tickets, booking hotel rooms in 13 countries, it is time to take flight.
 
 Our flight is about to depart in less than 2 hours; Clara, Amber and myself are at Delta Airline’s gate F8 ready to see the world. 
 
@@ -187,6 +251,4 @@ We’ve started our morning travel day with some nondairy Starbucks, of course v
 
 It’s time to go, we’ll chat with you guys on the other side of the Atlantic Ocean - Ready, set, let-go! 
 
-
-
- Visit my FULL GALLERY of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
+ Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
