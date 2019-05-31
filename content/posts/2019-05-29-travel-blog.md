@@ -2,11 +2,75 @@
 title: 'TRAVEL BLOG '
 Subtitle: 'THE FASHION, FUN AND EIFFEL TOWER OF PARIS'
 category: SOCIAL
-cover: /images/uploads/035a3052.jpeg
+cover: /images/uploads/035a3522.jpg
 portrait: /images/uploads/img_2690.jpg
 author: 'Anthony KaDarrell Thigpen '
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience publishing. AP Style news writing, marketing and photography are his passions.'
 ---
+# TIPS TO TRAVELING COUNTRY TO COUNTRY  
+
+## (TIME STAMPED: Friday, May 31, 2019/5:45 p.m.)
+
+A multi-destination trip to Europe is for the brave-hearted – it’s exciting, adventurous and daring. While doing so, there are a few tedious tips travelers need to heed. When leaving places like Paris, heading to Barcelona on these European bullet trains time warping at over 210 miles per hour, there are critical travel tips to consider. 
+
+For starters, restrooms or toilets can be located nearly a mile away from any given spot at a depot. So, if you have a weak bladder, plan ahead or wear depends – seriously. Also, some restroom cost about 0.80 euros, which is about $1 - keep that in mind. It seems like the closer we get to a restroom, psychologically the body relaxes itself – ordinarily that’s a good thing. However, the urgency and discomfort of thinking you have access to a toilet, and then suddenly realizing you have no currency at hand can be excruciating.
+
+As you probably sensed, I’ve been there – thankfully, my bladder is strong.
+
+Speaking of strength, don’t anticipate the use of luggage rollers - you will have to carry your luggage throughout your trip when backpacking by Eurail. 
+
+Almost 50 pounds of clothes and toiletries for 2 people during a 3-week stay gave me a greater appreciation for the invention of wheels.
+
+Unfortunately, this left my wife backpacking her own luggage, like a brave-hearted trooper. During our previous trip to Europe together, we traveled to 7 countries by plane, but failed to see the inland regions of the countryside, beyond the tourist attraction.
+
+This particular trip has been priceless.
+
+These rolling hills, mountainsides, green pastures, and beautifully breath-taking views are a sight to see. 
+
+After experiencing both, I definitely suggest traveling by train.
+
+Trains in Europe are very efficient, actually more comfortable, with more amenities and more personal space than airplanes. However, consider purchasing a global pass and visiting multiple countries during your stay – first class preferably.  A global pass will give you the best bang for your buck. We purchased our global Eurail pass online months prior to departure. Although there’s an additional costs for seat reservation on each train.
+
+As a result of purchasing first-class Eurail passes in advance, our seat reservations are usually less than $45 in first-class. Throughout Europe, depending on which country you’re in, you could be on a EuroStar, SNCF or other trains. Much like in America we have Amtrak, Grand Canyon Railways and South-shore Trains. 
+
+Europe merely operates a faster and more sophisticated network of express railways.  When reserving seats, if your party has more than two people, be sure to inform the ticket agent that you’d like to seat across from one another. We have our own private section, hot meals and drinks are served, toilets are in each cart, and outlets, lamps and window shades are provided – sometimes it’s free, but be prepared to pay. 
+
+On overnight trains, you even have the option of purchasing a bed. It’s definitely a one-of-a-kind experience.
+
+Currently, we’re moving at such an accelerated speed (300 km/h), that cars on the expressway barely seem to be moving.
+
+So, you’re probably wondering, “How much was our online Eurail Pass?”
+
+Well, none of your business – just kidding.  Seriously, that all depends on how far in advance you make your purchase.
+
+Also, you will have the option to pay a third party company to make your seat reservations in advance. 
+
+I didn’t. I don’t regret it. However, paying the added fee is likely to be more helpful and eliminate hassles and stress.
+
+Just keep in mind that once you make those purchases, your trip is set in stone.
+
+At that point, there will be an additional cost for spontaneity. 
+
+Once you arrive in country, you’ll notice that these train depots are huge buildings occupied by restaurants, banks, fresh food markets, deli shops, and more. There so much going on – from different dialogues and languages, and military security armed with machine guns, to worldwide travelers taking trains that look like torpedoes.
+
+Pardon me, as I continue gazing amid these picturesque views and soaking up the sensation of serenity.
+
+I’ll write a separate blog about Barcelona in my next post and add some panoramic photos of Spain into my full gallery.
+
+Remember, after all your research, Europe is a well connected Continent of 44 countries, and you’ll definitely want to visit more than just one upon crossing the Atlantic Ocean. Meanwhile, as we continue to commute throughout various countries, our first-hand tips are sure to save researchers and readers lots of cash and concern. 
+
+
+
+Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
+
+
+
+
+
+
+
+
+
 # PARIS NEVER SLEEPS
 
 ## (TIME STAMPED: Thursday, May 30, 2019/11:30 a.m.)
@@ -53,8 +117,6 @@ However, I admit I’m biased, Italy is my favorite tourism place on the planet,
 
 For now, off to Spain we go.
 
-
-
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
 
 
@@ -65,11 +127,9 @@ Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by
 
 
 
-# THE FASHION, FUN AND EIFFEL TOWER OF PARIS 
+# THE FASHION, FUN AND EIFFEL TOWER OF PARIS
 
 ## (TIME STAMPED: Wednesday, May 29, 2019/10:04 p.m.)
-
-
 
 **TRAVEL BLOG -**    I don’t have long because our night isn’t over and we’re heading for a Paris-style late evening meal.
 
@@ -95,8 +155,6 @@ At any rate, I’ll tell you more about our Paris experience tomorrow.
 
 I gotta go – Paris await my presence! 
 
-
-
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
 
 
@@ -105,13 +163,9 @@ Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by
 
 
 
+# CHANGE OF PLANS                
 
-
-
-
-# CHANGE OF PLANS                “Keep Your Head to the Sky”
-
-##   (TIME STAMPED: Tuesday, May 28, 2019/11:45 p.m.) 
+##   (TIME STAMPED: Tuesday, May 28, 2019/11:45 p.m.)
 
 **TRAVEL BLOG -**    are in Paris now. Let me explain.
 
@@ -147,8 +201,6 @@ For now, I have to get some rest – this is definitely the best trip ever, asid
 
 For those of you that are dreaming of coming to Paris one day – see you in your dreams.
 
-
-
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
 
 
@@ -157,11 +209,9 @@ Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by
 
 
 
+# LONDON, ENGLAND  (The UK)  
 
-
-# LONDON, ENGLAND                    The United Kingdom  
-
-## (TIME STAMPED: Monday, May 27, 2019/11:38 p.m.) 
+## (TIME STAMPED: Monday, May 27, 2019/11:38 p.m.)
 
 **TRAVEL BLOG -**   So, we landed in London. 
 
@@ -205,8 +255,6 @@ The monuments and memories of London are a reminder of American history at its o
 
 We may have landed, but it feels like our feet haven’t touched the ground – we’re having a blast!
 
-
-
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
 
 
@@ -217,7 +265,7 @@ Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by
 
 
 
-# TRAVELING WITH TEAM THIGPEN 
+# TRAVELING WITH TEAM THIGPEN
 
 Summer Family Vacations to Hotspots in Europe
 
