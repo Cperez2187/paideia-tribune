@@ -2,7 +2,7 @@
 title: 'TRAVEL BLOG '
 Subtitle: 'BYE BYE BARCELONA '
 category: SOCIAL
-cover: /images/uploads/7225323862624693997_035a2825.jpg
+cover: /images/uploads/thigpen-spain-.jpeg
 portrait: /images/uploads/img_2690.jpg
 author: 'Anthony KaDarrell Thigpen '
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience publishing. AP Style news writing, marketing and photography are his passions.'
