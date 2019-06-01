@@ -1,12 +1,94 @@
 ---
 title: 'TRAVEL BLOG '
-Subtitle: 'THE FASHION, FUN AND EIFFEL TOWER OF PARIS'
+Subtitle: 'BYE BYE BARCELONA '
 category: SOCIAL
-cover: /images/uploads/035a3522.jpg
+cover: /images/uploads/7225323862624693997_035a2825.jpg
 portrait: /images/uploads/img_2690.jpg
 author: 'Anthony KaDarrell Thigpen '
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience publishing. AP Style news writing, marketing and photography are his passions.'
 ---
+# BYE BYE BARCELONA 
+
+_Switching Scenery from Spain to Switzerland_ 
+
+## (TIME STAMPED: Saturday, June 1, 2019/11:35 p.m.)
+
+Traveling to 13 countries in one summer is a huge undertaking – I’ve questioned my sanity and still think I’m a genius.
+
+Besides, it’s been said that the definition of insanity is always doing the same thing and expecting a different result. 
+
+Well, European undertaking definitely is no repeat of the same old same old. 
+
+However, I do believe this was my last repeat trip to the capital of Catalonia.
+
+Barcelona is a breathtakingly beautiful place to behold; wine vineyards, the basilica and snow capped mountains are just a few images that leave tourists in awe.
+
+There’s so much more to see than the expected sea shores and beaches.
+
+Here the catch, the natives are naturally rude - not with bad intentions - it seems to be a cultural norm.
+
+They’re not accommodating with lost travelers.
+
+Their food is nothing tasty to write home about. 
+
+They don’t seem to like tourists, to the extent that one native flung a handful of trash toward international guests eating at a nearby restaurant. 
+
+They don’t try to help you with their language, even if you’re spending money in their establishment. 
+
+As a result, there’s no need to tell me where I’m not welcomed as a guest.
+
+Adios Amigo! 
+
+Seriously, I was glad to arrive, and equally glad to say goodbye. 
+
+The Temple Expiatori de la Sagrada Família is the primary attraction we wanted our daughter to see. 
+
+It is an extremely large almost finished Roman Catholic Church in the heart of Barcelona. 
+
+The church construction has come along way since Clara and I first saw it 6 years ago.
+
+Architect Antonio Gaudi designed the building and it’s been under construction since 1882. 
+
+During the Spanish Civil War of 1936-1939, many of the original gothic architectural plans, and master models were destroyed. 
+
+On the centennial of Guadi’s death, 2026, the church is scheduled for completion. 
+
+It is said to be the most beautiful church in the entire history of art. 
+
+With no uncertainty, the breath-taking building is jaw-dropping, awe-inspiring and mind-mesmerizing.
+
+Pictures don’t quite do it justice, so I took a lot of them, aiming to give readers a better idea of how immaculate and huge the church is. 
+
+Every artistic detail represents history from the Christian religion. 
+
+Much like natural world wonders; the Grand Canyon, Victoria Falls, Mt. Everest and more, manmade masterpieces give birth to continued inspiration. 
+
+We did have great service at a street side restaurant, although to no surprise, the waiter was Italian – nobody knows hospitality and food like Italians.
+
+So, Barcelona is not a bad memory, it’s just not on the top of my list of referrals. 
+
+I left inspired. 
+
+I just prefer more pleasantries when exploring new cultural experiences – that’s why I’m highly anticipating my return to Rome. 
+
+One week has escaped us so quickly - time flies when you’re having fun, especially on vacation. 
+
+Before heading to Italy for the week, we’re spending this weekend in Switzerland. 
+
+(We actually arrived in Switzerland today, we leave on Monday, I’ll post pictures and new blog as content as frequent as time permits). 
+
+All aboard - this train is heading to the Swiss Alps of Central Europe.
+
+
+
+ Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
+
+
+
+
+
+
+
 # TIPS TO TRAVELING COUNTRY TO COUNTRY  
 
 ## (TIME STAMPED: Friday, May 31, 2019/5:45 p.m.)
@@ -59,17 +141,7 @@ I’ll write a separate blog about Barcelona in my next post and add some panora
 
 Remember, after all your research, Europe is a well connected Continent of 44 countries, and you’ll definitely want to visit more than just one upon crossing the Atlantic Ocean. Meanwhile, as we continue to commute throughout various countries, our first-hand tips are sure to save researchers and readers lots of cash and concern. 
 
-
-
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
-
-
-
-
-
-
-
-
 
 # PARIS NEVER SLEEPS
 
@@ -119,14 +191,6 @@ For now, off to Spain we go.
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
 
-
-
-
-
-
-
-
-
 # THE FASHION, FUN AND EIFFEL TOWER OF PARIS
 
 ## (TIME STAMPED: Wednesday, May 29, 2019/10:04 p.m.)
@@ -157,13 +221,7 @@ I gotta go – Paris await my presence!
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
 
-
-
-
-
-
-
-# CHANGE OF PLANS                
+# CHANGE OF PLANS 
 
 ##   (TIME STAMPED: Tuesday, May 28, 2019/11:45 p.m.)
 
@@ -202,12 +260,6 @@ For now, I have to get some rest – this is definitely the best trip ever, asid
 For those of you that are dreaming of coming to Paris one day – see you in your dreams.
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
-
-
-
-
-
-
 
 # LONDON, ENGLAND  (The UK)  
 
@@ -256,14 +308,6 @@ The monuments and memories of London are a reminder of American history at its o
 We may have landed, but it feels like our feet haven’t touched the ground – we’re having a blast!
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
-
-
-
-
-
-
-
-
 
 # TRAVELING WITH TEAM THIGPEN
 
