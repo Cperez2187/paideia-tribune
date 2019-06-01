@@ -1,5 +1,5 @@
 ---
-title: 'TRAVEL BLOG '
+title: TRAVEL BLOG EUROPE 2019
 Subtitle: 'BYE BYE BARCELONA '
 category: SOCIAL
 cover: /images/uploads/thigpen-spain-.jpeg
