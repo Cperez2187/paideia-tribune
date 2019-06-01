@@ -1,6 +1,6 @@
 ---
-title: TRAVEL BLOG EUROPE 2019
-Subtitle: 'BYE BYE BARCELONA '
+title: TRAVEL BLOG
+Subtitle: 'TASTE OF EUROPE, Bye Bye Barcelona '
 category: SOCIAL
 cover: /images/uploads/thigpen-spain-.jpeg
 portrait: /images/uploads/img_2690.jpg
