@@ -1,13 +1,13 @@
 ---
 title: TRAVEL BLOG
-Subtitle: 'TASTE OF EUROPE, Planning a World Class Trip'
+Subtitle: 'TASTE OF EUROPE, Planning a World Class Vacation '
 category: SOCIAL
 cover: /images/uploads/035a4006.jpeg
 portrait: /images/uploads/img_2690.jpg
 author: 'Anthony KaDarrell Thigpen '
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience publishing. AP Style news writing, marketing and photography are his passions.'
 ---
-# PLANNING A WORLD CLASS TRIP
+# PLANNING A WORLD CLASS VACATION 
 
 ## (TIME STAMPED: Sunday, June 2, 2019/10:00 p.m.)
 
@@ -69,7 +69,7 @@ Tickets are usually less expensive early on, and you’ll have a choice of bette
 
 You’ll want to sit together, and these instructions will allow you to have a happy wife and a happy life.
 
-## Hotels 
+## Hotels
 
 Remember what I told you about loyalty?
 
@@ -131,7 +131,7 @@ If traveling in the summer, keep in mind that shorts weigh less and take up less
 
 Our current trip is 3 weeks, so everything I’m describing is pretty much based on this trip.
 
-## In Country Traveling 
+## In Country Traveling
 
 I previously wrote an article called “Tips to Traveling in Country”. Scroll through my Travel Blog and you’ll learn a lot about the Global Eurail Pass that you should purchase months prior to traveling in country. 
 
@@ -149,7 +149,7 @@ In addition, you’ll have the expense of city tubes, local trains, buses and ta
 
 Count up the cost prior to planning your trip. 
 
-## 21 Day Journey Calculator 
+## 21 Day Journey Calculator
 
 (These are approximate rates for Europe). 
 
@@ -172,8 +172,6 @@ Gain some meaningful world class experiences that you will embrace for a lifetim
 Perhaps you’ll have to save for season, but now you have all the informaion at your disposal to plan a world class family vacation. 
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
-
-
 
 # BYE BYE BARCELONA 
 
