@@ -1,12 +1,180 @@
 ---
 title: TRAVEL BLOG
-Subtitle: 'TASTE OF EUROPE, Bye Bye Barcelona '
+Subtitle: 'TASTE OF EUROPE, Planning a World Class Trip'
 category: SOCIAL
-cover: /images/uploads/thigpen-spain-.jpeg
+cover: /images/uploads/035a4006.jpeg
 portrait: /images/uploads/img_2690.jpg
 author: 'Anthony KaDarrell Thigpen '
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience publishing. AP Style news writing, marketing and photography are his passions.'
 ---
+# PLANNING A WORLD CLASS TRIP
+
+## (TIME STAMPED: Sunday, June 2, 2019/10:00 p.m.)
+
+Supporters across the United States have been following our family travel blog and asking really great questions.
+
+Readers are inspired.
+
+“How and what did you pack for a trip of this magnitude,” asked an Texas enthusiast?
+
+One Illinois reader asked, “Did you hire a travel agent?”
+
+Questions and concerned ranged from when is the best time to exchange currency, how to pick the right hotels, and how to operate in countries that do not speak English.
+
+So, here’s a quick blog to answer a few of those questions.
+
+# Passports
+
+Make sure you have valid identification and passports. If your passport expires in less than 6 months, some countries will not accept it for entry, so double check. 
+
+If you have a child, you will need both parents to sign in order to secure a passport for a minor. 
+
+If you received a passport prior to age 18, you’ll have to apply for a new one as an adult. 
+
+Take a copy of your passport prior to traveling. Keep one in your possession at all times and keep the other with your luggage. 
+
+If you have any concerns while overseas, all you need to do is contact the U.S. Ambassador within the country you are visiting. 
+
+## Plane Tickets
+
+This can be tricky, because everyone has difference preferences. 
+
+When traveling overseas, I prefer to pay the added cost and fly Delta Airlines – this is not an  endorsement of any kind. 
+
+Just remember, loyalty has rewards – frequent flyer miles pay off in the long run.
+
+Also, Delta offers added space, convenience and comfort. 
+
+Whatever you do, remember, traveling overseas is a time consuming experience, and you want your travel accommodations to be as comfy as conceivable. 
+
+Your flight will potentially set the tone for the duration of your trip.
+
+The last option you’ll want is multiple layovers prior to arriving at your final destination.
+
+Initially, it might seem fun landing in various locations, but 2-4 hour layovers don’t give you enough time to leave the airport and sightsee.
+
+The only thing you’ll have is bragging rights to say, “I’ve been there,” but exhaustion, frustration, poor hygiene and less time to actually enjoy your vacation destination. 
+
+I suppose you’ll possibly save a few bucks, but remember, you get what you pay for.
+
+Besides, why spend your time and money on airport meals and security checks, when you can be making lasting memories in a far away place.
+
+To save on cost, check the prices to multiple destinations you’ll visit during your stay.
+
+Afterward, you can alter your travel journey while maintaining the comfort and convenience of a reputable airline. 
+
+Most importantly, purchase your tickets far in advance.
+
+Tickets are usually less expensive early on, and you’ll have a choice of better seating arrangements, especially if traveling with a group of 3 or more. 
+
+You’ll want to sit together, and these instructions will allow you to have a happy wife and a happy life.
+
+## Hotels 
+
+Remember what I told you about loyalty?
+
+Whether you stay at Hilton Hotels, Marriott’s, Embassy Suits or whatever your choice is, stick to it.
+
+This option will give you memberships perks, sometimes free breakfast, free night stays, and the convenience of dealing with one franchise, in the event issues arise.
+
+For example, during our recent visit, we had to alter our route because Amsterdam train workers were on strike. 
+
+I simply contacted an English speaking Hilton representative. 
+
+Within minutes, she canceled my non-refundable room (and refunded my credit card), while booking us an additional night stay in Paris, at the same time. 
+
+The transition went wrinkle-free, and we seamlessly rerouted our journey. 
+
+Among other reasons, this is why I prefer American owned hotels. 
+
+When staying at foreign hotels, there’s no guarantee that the concierge will be able to speak your language, make last minute accommodations or provide refunds. 
+
+The rooms are often much smaller, and the food options are even more limited.
+
+A free breakfast at your hotel has the potential to save an awful lot of cash flow to do other tourism activities. 
+
+Our hotel in Switzerland even provided a free laundry room with free detergent, allowing us to wash clothes midstream.
+
+A good quality hotel that you already trust for travel purposes stateside will prove worthwhile when traveling within Europe. 
+
+## Packing for A Long Journey
+
+If you are staying 10-30 days, don’t you dare pack an outfit for each day – pack lightly. 
+
+Remember, you can always wash – you’ll have plenty of time during a 3-4 week trip.
+
+Roll your clothing tightly and store items in zip lock bags during travel. 
+
+This will protect your clothes from spills and excessive wrinkles – it will also allow you to keep the smell of your dirty clothes from your clean clothing.
+
+In fact, I stuff a fresh bounty sheet into all my zip lock bags to keep a fresh fragrance on my clean clothes.
+
+I’m an extremist, but who better to learn from. 
+
+I even pack my bags two weeks prior to departure and weigh it on a digital scale. 
+
+If your international luggage weighs more than 50 pounds, you’re likely to pay an additional $100, going and coming, for the extra weight. 
+
+I combined my luggage with my daughter’s for a duffle bag weighing 47 pounds. 
+
+Considering that I knew I’d been walking in various countries to different speed trains, I did a test run. 
+
+I mounted my luggage on my back and went for an 8-mile walk through my neighborhood. 
+
+Afterward, I had no concerns, knowing that I wouldn’t walk more than 8 miles with luggage while traveling with a wife and a 13-year-old daughter.  
+
+Obviously, women need to take extra (just-in-case) hygiene stuff – especially if your trip is a month long (hint hint).
+
+Other than planning for the expected, aim to under pack, rather than over packing. Wear pants with different shirts more than once – mix it up. 
+
+If traveling in the summer, keep in mind that shorts weigh less and take up less space.
+
+Our current trip is 3 weeks, so everything I’m describing is pretty much based on this trip.
+
+## In Country Traveling 
+
+I previously wrote an article called “Tips to Traveling in Country”. Scroll through my Travel Blog and you’ll learn a lot about the Global Eurail Pass that you should purchase months prior to traveling in country. 
+
+The global pass is about $556 for an adult and $427 for a child.
+
+You will still need to pay to reserve seats on certain train lines. 
+
+However, add up your cost prior to traveling, because if you’ll be moving about Europe to more than 3 countries, it’ll be worth the expense. 
+
+Be mindful that your global pass is not the only cost of in country travel. 
+
+Reserving seats is as chap as $12 per person, and sometimes $40 per person, depending on your destination. 
+
+In addition, you’ll have the expense of city tubes, local trains, buses and taxis. 
+
+Count up the cost prior to planning your trip. 
+
+## 21 Day Journey Calculator 
+
+(These are approximate rates for Europe). 
+
+Passport ($120) + Airline Tickets ($1500) + Luggage ($500) + Nightly Hotel ($160) + Global Eurail Pass ($560) + Local Commuter Expenses ($50) + Food Expenses ($100) + Tourism Activities ($75) = Total Approximate: $12,765
+
+In essence, you might want to plan to save/spend about $13,000 - $14,000, because unexpected expenses are always likely to arise. 
+
+You don’t want to find yourself stuck in a foreign place broke or having to forfeit comfort and convenience on a family vacation. 
+
+It might sound like a lot, but I was adding up expenses with a friend and we a unique discovery. 
+
+In one year alone, his expenses on liquor, smokes, stateside traveling, and miscellaneous activities, totaled about $6000. 
+
+The choice is yours - we all do what we want to with our income.
+
+Stop calculating other people’s vacation costs and enjoy your own life.
+
+Gain some meaningful world class experiences that you will embrace for a lifetime. 
+
+Perhaps you’ll have to save for season, but now you have all the informaion at your disposal to plan a world class family vacation. 
+
+Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
+
+
+
 # BYE BYE BARCELONA 
 
 _Switching Scenery from Spain to Switzerland_ 
@@ -79,15 +247,7 @@ Before heading to Italy for the week, we’re spending this weekend in Switzerla
 
 All aboard - this train is heading to the Swiss Alps of Central Europe.
 
-
-
  Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
-
-
-
-
-
-
 
 # TIPS TO TRAVELING COUNTRY TO COUNTRY  
 
