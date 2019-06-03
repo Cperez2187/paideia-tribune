@@ -1,12 +1,118 @@
 ---
 title: 'TRAVEL BLOG '
-Subtitle: 'Planning a World Class Vacation '
+Subtitle: Secrets Surrounding Switzerland
 category: SOCIAL
-cover: /images/uploads/najf4i9qss-peqtcpx0cea_thumb_568.jpg
+cover: /images/uploads/035a4006.jpeg
 portrait: /images/uploads/img_0005.jpeg
 author: 'Anthony KaDarrell Thigpen '
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience publishing. AP Style news writing, marketing and photography are his passions.'
 ---
+# SECRETS SURROUNDING SWITZERLAND
+
+## (TIME STAMPED: Monday, June 3, 2019/11:45 p.m.)
+
+
+
+We settled into the sunset of stunning Switzerland – with 4,600 feet mountaintops surrounding small towns as the sunlight skips across clear blue lakes.
+
+This wife and daughter and mine are amazingly advanced travelers; they get up early prepared to face the foreign challenges and chaos of the day.
+
+They carry heavy luggage without complaining or causing delays.
+
+They’ve packed lightly, washed clothes, and repacked while in route.
+
+They suggest brilliant tourism ideas – and together we’re having a blast making magical memories.
+
+Some women complain about having husbands that don’t travel, but your family travel team has to have tenacity, grit, spontaneity, social skills, strength and flexibility.
+
+I’d cross the borders of any country with Clara and Amber – we’ve detoured to avoid drama, navigated around negativity, and took high speed trains to evade nonsense.
+
+Thigpen team is now racing to Rome.
+
+Meanwhile, I have to tell you about Zurich, Switzerland. 
+
+For starters, the view is hypnotic; Swiss Alps capped with snow, green pastures, lakeside boat rides, passing trains and historic homes – all within the scope of one glance.
+
+Mere words cannot express the complexity the Creator used with designing this place. 
+
+Describing Switzerland as beautiful is an epic understatement.
+
+We witnessed firsthand, God’s ingenious artistry. 
+
+Next to humanity itself, I’ve never laid naked eyes on anything as intrinsically profound. 
+
+The cobblestone streets, traditional Swiss architecture and European style clock towers with giant bells lined the cityscape. 
+
+Upon arrival, we were greeted like royalty at Hilton, Spreitenbach, which is a wonderfully 2019 designed Hilton located in the suburbs on Zurich.
+
+Front desk receptionists Lisa Moser (Austrian) and Alexander kok (Asian) ensured our comfort with exceptional kindness.
+
+Restaurant supervisor Marcel Albert (German) accommodated our vegan requests, made suggestions and rearranged the menu, had the chef create gourmet recipes to our liking. 
+
+Bar manger Damien Richard (Italian) and bartenders Fabio Mossini (Italian) made us feel like family.
+
+Then there was Jan Schwartzwrpf (Swiss).
+
+He showed us the kind of hospitality meant for kings and queens, we laughed with one another like long lost friends. 
+
+The fact that we barely could speak one another’s languages didn’t seem to matter at all.
+
+I miss everything about Switzerland already. 
+
+The food, the drinks, the view and mostly the kind-hearted and hospitable people.
+
+Clara made tourism arrangements that landed us in the middle of the Lake of Zurich on a fascinating boat tour.
+
+It is a photographer’s dream excursion. 
+
+We walked through the city limits of old town Zurich, the original historic location of where the town started. 
+
+We met a man named Sergio, who volunteered to give us a mini tour of the town, of course we accepted.
+
+Afterward, Clara tipped him a couple Swiss franks. 
+
+Our tour started on Limmat River, which Sergio called one of the largest rivers in Europe.
+
+This wasn’t accurate, although Zurich is the largest city in Switzerland, and the Lake of Zurich is where the Limmat River starts. 
+
+Sergio did give us a lot of valuable historic facts. 
+
+Zürich was founded by the Romans, so perhaps this was the perfect place to visit prior to arriving in Rome. 
+
+The city thrived because of all the markets positioned alongside the river. 
+
+Sergio did share an interesting piece of the untold past that I was able to fact check.
+
+A prominent Catholic priest named Ulrich Zwingli was born in 1484 and martyred by Catholic mercenaries in 1531.
+
+Zurich has 26 Cantons, which are like states in America.
+
+Roman priest Ulrich Zwingli (also known as Huldrych), who possessed extreme rhetoric abilities, was sent to Zurich – a country with 4 official languages.
+
+Places where merchants spoke many languages required a priest like Zwingli to ensure the church’s success.
+
+Soon after his placement, the Roman Catholic Church hired mercenaries, known as the Swiss Mercenary System, to fight for colonies, power, religious rule, and trade in Zurich.
+
+Zwingli was against this church initiative.
+
+As a result, he broke tides with Catholicism and started a reformation movement that evolved into Christian Protestants.
+
+When many Swiss soldiers suffered the Black plague disease, Zwingli was killed on the battlefield because they did not have enough men to stand their ground.
+
+A Zurich statue still stands in his honor, depicting him holding a sword and the Bible.
+
+Sergio’s tourism tips paid off, we learned a lot, and most importantly, he motivated us to do more research while in route to Rome. 
+
+The girls have mounted up, we’re moving out and making our way to southern Italy. 
+
+The adrenalin of rushing to Rome is unmistakable, considering that the ancient ruins of this city is one of our favorite historic sites in the world. 
+
+ Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
+
+
+
+
+
 # PLANNING A WORLD CLASS VACATION
 
 ## (TIME STAMPED: Sunday, June 2, 2019/10:00 p.m.)
