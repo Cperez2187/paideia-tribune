@@ -1,17 +1,75 @@
 ---
 title: 'TRAVEL BLOG '
-Subtitle: Secrets Surrounding Switzerland
+Subtitle: ROME IS RIVETING
 category: SOCIAL
-cover: /images/uploads/035a4006.jpeg
+cover: /images/uploads/035a4312.jpeg
 portrait: /images/uploads/img_0005.jpeg
 author: 'Anthony KaDarrell Thigpen '
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience publishing. AP Style news writing, marketing and photography are his passions.'
 ---
+# ROME IS RIVETING 
+
+## (TIME STAMPED: Thursday, June 6, 2019/12:30 a.m.)
+
+Where are my gladiators? If you like movies like Gladiator, Troy, Spartacus, Kingdom of Heaven, Robin Hood, or 300: Rise of an Empire, then visit Rome. 
+
+We’ve marched miles through the motorways of Rome on a mission to discover hidden architectural jewels. 
+
+Our path started at the _Santa Maria Maggiore_, an ancient church built under Celestine between 422-432 AD.
+
+Finding ancient buildings that were built as far back as the first century is quite easy in this intoxicating city.
+
+Everything is designed to impress.
+
+Upon undertaking the steep slope of climbing and counting all 174 _Spanish Steps_, we were able to see the Bourbon Spanish Embassy.
+
+The entire central city is saturated with ancient architect and well-kept ruins of the great empire. 
+
+Most spectacular is the _Roman Colosseum._
+
+The Coliseum was completed in 80AD and holds between 50,000 - 70,000 guests, similar to the size of a huge NFL stadium.
+
+Hearing the history while standing inside the marble walls was a priceless educational experience.
+
+However, I’ll regress to prevent this blog from becoming a history lesson. 
+
+You should know that Rome has the absolute most amazing architect of the ancient world. They built astounding arches, the first city sewage system, engineered running water, a mesmerizing marble coliseum and so much more.
+
+Walking along the path of prehistoric marble sidewalks through ancient arches felt somewhat surreal. 
+
+It’s no surprise why 20 million tourists visit Rome every year to see and hear about the dynasty with 700 years of bloody history.
+
+Accurate descriptions have escaped my mind because my thoughts are scattered throughout the crisscrossing street of Rome.
+
+During our first visit 6 years ago, we failed to put in the steps needed to see the magnitude of this place – perhaps our visit was too short.
+
+This time around, we gave ourselves 5 days to observe, learn, relax, shop and eat authentic Italian dishes.
+
+I think we’re addicted to pizza and pasta now – oh, and Italian bread, gelato and did I say pizza and pasta?
+
+Tomorrow, we’ll visit the smallest country on the planet.
+
+Did you know that Vatican City’s boundaries are undisputed even though the country is located entirely within the city of Rome?
+
+We set aside a special day to visit the Vatican museum, Sistine Chapel and St. Peter’s Basilica. 
+
+Afterward, we’ll eat more pizza and pasta, before posting more high resolution pictures for our blog readers.
+
+Meanwhile, enjoy the recent photos we’ve uploaded detailing major landmarks in the riveting city of Rome.
+
+ Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
+
+
+
+
+
+
+
+
+
 # SECRETS SURROUNDING SWITZERLAND
 
 ## (TIME STAMPED: Monday, June 3, 2019/11:45 p.m.)
-
-
 
 We settled into the sunset of stunning Switzerland – with 4,600 feet mountaintops surrounding small towns as the sunlight skips across clear blue lakes.
 
@@ -108,6 +166,10 @@ The girls have mounted up, we’re moving out and making our way to southern Ita
 The adrenalin of rushing to Rome is unmistakable, considering that the ancient ruins of this city is one of our favorite historic sites in the world. 
 
  Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
+
+
+
+
 
 
 
@@ -279,6 +341,14 @@ Perhaps you’ll have to save for season, but now you have all the informaion at
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
 
+
+
+
+
+
+
+
+
 # BYE BYE BARCELONA 
 
 _Switching Scenery from Spain to Switzerland_ 
@@ -353,6 +423,16 @@ All aboard - this train is heading to the Swiss Alps of Central Europe.
 
  Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
 
+
+
+
+
+
+
+
+
+
+
 # TIPS TO TRAVELING COUNTRY TO COUNTRY  
 
 ## (TIME STAMPED: Friday, May 31, 2019/5:45 p.m.)
@@ -407,6 +487,14 @@ Remember, after all your research, Europe is a well connected Continent of 44 co
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
 
+
+
+
+
+
+
+
+
 # PARIS NEVER SLEEPS
 
 ## (TIME STAMPED: Thursday, May 30, 2019/11:30 a.m.)
@@ -455,6 +543,14 @@ For now, off to Spain we go.
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
 
+
+
+
+
+
+
+
+
 # THE FASHION, FUN AND EIFFEL TOWER OF PARIS
 
 ## (TIME STAMPED: Wednesday, May 29, 2019/10:04 p.m.)
@@ -484,6 +580,14 @@ At any rate, I’ll tell you more about our Paris experience tomorrow.
 I gotta go – Paris await my presence! 
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
+
+
+
+
+
+
+
+
 
 # CHANGE OF PLANS 
 
@@ -524,6 +628,16 @@ For now, I have to get some rest – this is definitely the best trip ever, asid
 For those of you that are dreaming of coming to Paris one day – see you in your dreams.
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
+
+
+
+
+
+
+
+
+
+
 
 # LONDON, ENGLAND  (The UK)  
 
@@ -572,6 +686,16 @@ The monuments and memories of London are a reminder of American history at its o
 We may have landed, but it feels like our feet haven’t touched the ground – we’re having a blast!
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
+
+
+
+
+
+
+
+
+
+
 
 # TRAVELING WITH TEAM THIGPEN
 
