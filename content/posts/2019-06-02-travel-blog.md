@@ -1,13 +1,79 @@
 ---
 title: 'TRAVEL BLOG '
-Subtitle: ROME IS RIVETING
+Subtitle: SMALLEST COUNTRY WORLDWIDE
 category: SOCIAL
-cover: /images/uploads/035a4312.jpeg
+cover: /images/uploads/irf0xnjesa631t2xmsmm-q_thumb_894.jpg
 portrait: /images/uploads/img_0005.jpeg
 author: 'Anthony KaDarrell Thigpen '
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience publishing. AP Style news writing, marketing and photography are his passions.'
 ---
-# ROME IS RIVETING 
+# SMALLEST COUNTRY WORLDWIDE 
+
+## (TIME STAMPED: Satuday, June 8, 2019/5:00 p.m.)
+
+We’ve been on the Continent of Europe 14 days, and our 5 days in Italy proved perfect for sightseeing, shopping and satisfying our appetite. 
+
+Now we’re heading to the country of Austria to visit the beautiful city of Vienna.
+
+Before leaving Italy, we felt inspired to visit the smallest country in the world - Vatican City. 
+
+Yes, Vatican City is a sovereign country – the seat of the Catholic Holy See – the Roman Catholic Pope.
+
+Vatican City allowed us to gain greater insights about the Catholic empire.
+
+Don't worry, we didn't convert. 
+
+Although we did cough up the cash to skip the lines to visit the Sistine Chapel, St. Peter’s Basilica, and the Vatican Museums. 
+
+The $70 per person is well worth it. 
+
+The Sistine Chapel is the place where high priests assemble to select new Popes.
+
+World renowned artist Michael Angelo is noted for painting every inch of the chapel, even the ceiling. 
+
+However, he wasn’t the only artist, it is seldom mentioned, but others also contributed to the work of art that 20 million tourists visit annually. 
+
+The art in the Sistine Chapel depicts Christian history, based on the Bible, from Genesis to the last judgment. 
+
+The detail and craftsmanship is simply astonishing. 
+
+St. Peter’s Basilica is the place where the Apostle Peter is buried, the disciple who wrote 13 books of the New Testament Bible. 
+
+Others are buried their as well.
+
+The amazing Museums and huge hallways are overwhelmingly breathtaking. 
+
+Visiting Vatican City is a country well-worth your stop - especially if you're already heading to Rome anyway.
+
+Standing within the main square, where the Pope delivers many of his balcony speeches, is an original Egyptian Obelisk. 
+
+It is actually 1 of the 13 original obelisk from the antiquity era. 
+
+At least eight obelisks created by Egyptians were taken from Egypt after the Roman conquest. 
+
+So, if you ever want to see the largest standing ancient Egyptian obelisk in the world, you’ll have to take a tour of Rome. 
+
+Upon leaving the gates of Vatican City, we continued touring countless locations in Rome.
+
+We even entered the famous Pantheon and took pictures of the open sky ceiling. 
+
+While touring ancient landmarks, we ate more pizza, more pasta and more gelato than we ever anticipated - and we have no regrets.
+
+We also shopped for shoes, clothes and jewelry - I'll calculate those regrets upon my return. 
+
+Italy proved to be one of our favorite places on the planet once again. 
+
+As we say goodbye, boarding our first-class high speed train heading to Vienna, Austria, we can officially say, "When in Rome, we did as the Romans."
+
+ Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
+
+
+
+
+
+
+
+# ROME IS RIVETING
 
 ## (TIME STAMPED: Thursday, June 6, 2019/12:30 a.m.)
 
@@ -58,14 +124,6 @@ Afterward, we’ll eat more pizza and pasta, before posting more high resolution
 Meanwhile, enjoy the recent photos we’ve uploaded detailing major landmarks in the riveting city of Rome.
 
  Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
-
-
-
-
-
-
-
-
 
 # SECRETS SURROUNDING SWITZERLAND
 
@@ -166,14 +224,6 @@ The girls have mounted up, we’re moving out and making our way to southern Ita
 The adrenalin of rushing to Rome is unmistakable, considering that the ancient ruins of this city is one of our favorite historic sites in the world. 
 
  Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
-
-
-
-
-
-
-
-
 
 # PLANNING A WORLD CLASS VACATION
 
@@ -341,14 +391,6 @@ Perhaps you’ll have to save for season, but now you have all the informaion at
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
 
-
-
-
-
-
-
-
-
 # BYE BYE BARCELONA 
 
 _Switching Scenery from Spain to Switzerland_ 
@@ -423,16 +465,6 @@ All aboard - this train is heading to the Swiss Alps of Central Europe.
 
  Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
 
-
-
-
-
-
-
-
-
-
-
 # TIPS TO TRAVELING COUNTRY TO COUNTRY  
 
 ## (TIME STAMPED: Friday, May 31, 2019/5:45 p.m.)
@@ -487,14 +519,6 @@ Remember, after all your research, Europe is a well connected Continent of 44 co
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
 
-
-
-
-
-
-
-
-
 # PARIS NEVER SLEEPS
 
 ## (TIME STAMPED: Thursday, May 30, 2019/11:30 a.m.)
@@ -543,14 +567,6 @@ For now, off to Spain we go.
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
 
-
-
-
-
-
-
-
-
 # THE FASHION, FUN AND EIFFEL TOWER OF PARIS
 
 ## (TIME STAMPED: Wednesday, May 29, 2019/10:04 p.m.)
@@ -580,14 +596,6 @@ At any rate, I’ll tell you more about our Paris experience tomorrow.
 I gotta go – Paris await my presence! 
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
-
-
-
-
-
-
-
-
 
 # CHANGE OF PLANS 
 
@@ -628,16 +636,6 @@ For now, I have to get some rest – this is definitely the best trip ever, asid
 For those of you that are dreaming of coming to Paris one day – see you in your dreams.
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
-
-
-
-
-
-
-
-
-
-
 
 # LONDON, ENGLAND  (The UK)  
 
@@ -686,16 +684,6 @@ The monuments and memories of London are a reminder of American history at its o
 We may have landed, but it feels like our feet haven’t touched the ground – we’re having a blast!
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
-
-
-
-
-
-
-
-
-
-
 
 # TRAVELING WITH TEAM THIGPEN
 
