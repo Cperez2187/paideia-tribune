@@ -17,9 +17,9 @@ As with any international journey, Europe enriched us with life lessons, authent
 
 Recently, we stayed in the old town area of the original district of Vienna, Austria. 
 
-The single district city was once surrounded by walls - defensive walls that were demolished in 1853.  N
+The single district city was once surrounded by walls - defensive walls that were demolished in 1853.  
 
-ow, Vienna has 23 districts.  In the past, it was one of the most multi-ethnic cities on earth – a melting pot of immigrants from across the empire. 
+Now, Vienna has 23 districts.  In the past, it was one of the most multi-ethnic cities on earth – a melting pot of immigrants from across the empire. 
 
 Adolf Hitler went to college in Vienna from 1908-1913. He is often described as half man and half monster.  
 
@@ -68,12 +68,6 @@ Considering that we altered our trip to spend more time in France and Italy, we 
 This has already been the most meaningful trip of a lifetime, and it’s not even over!
 
  Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
-
-
-
-
-
-
 
 # SMALLEST COUNTRY WORLDWIDE 
 
@@ -135,14 +129,6 @@ As we say goodbye, boarding our first-class high speed train heading to Vienna, 
 
  Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
 
-
-
-
-
-
-
-
-
 # ROME IS RIVETING
 
 ## (TIME STAMPED: Thursday, June 6, 2019/12:30 a.m.)
@@ -194,14 +180,6 @@ Afterward, we’ll eat more pizza and pasta, before posting more high resolution
 Meanwhile, enjoy the recent photos we’ve uploaded detailing major landmarks in the riveting city of Rome.
 
  Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
-
-
-
-
-
-
-
-
 
 # SECRETS SURROUNDING SWITZERLAND
 
@@ -543,12 +521,6 @@ All aboard - this train is heading to the Swiss Alps of Central Europe.
 
  Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
 
-
-
-
-
-
-
 # TIPS TO TRAVELING COUNTRY TO COUNTRY  
 
 ## (TIME STAMPED: Friday, May 31, 2019/5:45 p.m.)
@@ -619,10 +591,6 @@ Meanwhile, as we continue to commute throughout various countries, our first-han
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
 
-
-
-
-
 # PARIS NEVER SLEEPS
 
 ## (TIME STAMPED: Thursday, May 30, 2019/11:30 a.m.)
@@ -671,12 +639,6 @@ For now, off to Spain we go.
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
 
-
-
-
-
-
-
 # THE FASHION, FUN AND EIFFEL TOWER OF PARIS
 
 ## (TIME STAMPED: Wednesday, May 29, 2019/10:04 p.m.)
@@ -706,12 +668,6 @@ At any rate, I’ll tell you more about our Paris experience tomorrow.
 I gotta go – Paris await my presence! 
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
-
-
-
-
-
-
 
 # CHANGE OF PLANS 
 
@@ -752,14 +708,6 @@ For now, I have to get some rest – this is definitely the best trip ever, asid
 For those of you that are dreaming of coming to Paris one day – see you in your dreams.
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
-
-
-
-
-
-
-
-
 
 # LONDON, ENGLAND  (The UK)  
 
@@ -808,14 +756,6 @@ The monuments and memories of London are a reminder of American history at its o
 We may have landed, but it feels like our feet haven’t touched the ground – we’re having a blast!
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
-
-
-
-
-
-
-
-
 
 # TRAVELING WITH TEAM THIGPEN
 
