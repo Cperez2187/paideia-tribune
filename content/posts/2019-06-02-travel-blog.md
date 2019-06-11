@@ -1,12 +1,76 @@
 ---
 title: 'TRAVEL BLOG '
-Subtitle: SMALLEST COUNTRY WORLDWIDE
+Subtitle: "HISTORY OF THE HOLOCAUST IN AUSTRIA\_\L\L"
 category: SOCIAL
-cover: /images/uploads/irf0xnjesa631t2xmsmm-q_thumb_894.jpg
+cover: /images/uploads/035a5234.jpg
 portrait: /images/uploads/img_0005.jpeg
 author: 'Anthony KaDarrell Thigpen '
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience publishing. AP Style news writing, marketing and photography are his passions.'
 ---
+# HISTORY OF THE HOLOCAUST IN AUSTRIA   
+
+## (TIME STAMPED: Monday, June 10, 2019/11:45 p.m.)
+
+Our European vacation is vacillating between an educational field trip and a summer of fun.  
+
+As with any international journey, Europe enriched us with life lessons, authentic experiences, and meaningful connections between reading and reality. 
+
+Recently, we stayed in the old town area of the original district of Vienna, Austria. 
+
+The single district city was once surrounded by walls - defensive walls that were demolished in 1853.  N
+
+ow, Vienna has 23 districts.  In the past, it was one of the most multi-ethnic cities on earth – a melting pot of immigrants from across the empire. 
+
+Adolf Hitler went to college in Vienna from 1908-1913. He is often described as half man and half monster.  
+
+Hitler was a great leader who did horrible things. He built the Nazis Party and his ring of evil.  
+
+He is responsible for the deaths of 6 million Jewish people, during the Holocaust. 
+
+The Holocaust was the mass slaughter of European civilians and especially Jews by the Nazis during World War II. 
+
+On March 12, 1938, German troops marched into Austria to annex the German-speaking nation of Austria. 
+
+ Jews, Poles, Gypsies and other members of the population considered racially impure, were forced into labor roles, beaten, placed in gas chambers, and displaced into concentration camps. 
+
+ Many museums throughout the city mark this gruesome history. 
+
+ A 1965 American musical drama titled “The Sounds of Music” depicts a kid-friendly version of the 1938 tragedies during Nazism. 
+
+ Watching this movie prior to visiting Vienna, provided our daughter with a better understanding.
+
+ If we don’t know history, we are inclined to vote for leaders who will cause us to repeat it.  
+
+Austria today is a beautiful and diverse place.  
+
+The people are kind, considerate, welcoming and accommodating.  
+
+The old town area is occupied by 200 year-old buildings that stood throughout the war. 
+
+Our experience in Vienna was relaxing, peaceful and enlightening.  
+
+The hotel accommodations, food and beverages were so delicious that we decided to write a special blog. 
+
+Our readers need to know that “All Hilton’s Are Not Created Equal”. 
+
+ We’ve arrived safely in Berlin, and our 3 week European tour is spiraling to a rapid end. 
+
+However, we are taking a trip to the country that held the highest GDP for years.  
+
+Luxembourg will be our 10th country to visit the lifestyle of one of the richest nations. 
+
+We’re taking a tour of the countryside of Germany while in route to our destination – Clara and Amber got an opportunity to see the region where I served in the military years ago.
+
+I took pictures of our old stomping grounds and sent them to 5 of my life-long military brothers. 
+
+Considering that we altered our trip to spend more time in France and Italy, we now have a reason to return. 
+
+This has already been the most meaningful trip of a lifetime, and it’s not even over!
+
+ Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
+
+
+
 # SMALLEST COUNTRY WORLDWIDE 
 
 ## (TIME STAMPED: Satuday, June 8, 2019/5:00 p.m.)
@@ -66,12 +130,6 @@ Italy proved to be one of our favorite places on the planet once again. 
 As we say goodbye, boarding our first-class high speed train heading to Vienna, Austria, we can officially say, "When in Rome, we did as the Romans."
 
  Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
-
-
-
-
-
-
 
 # ROME IS RIVETING
 
