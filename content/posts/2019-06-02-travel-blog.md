@@ -11,7 +11,7 @@ about: ' studied journalism at the University of St. Thomas and has over 25 year
 
 ## (TIME STAMPED: Monday, June 10, 2019/11:45 p.m.)
 
-Our European vacation is vacillating between an educational field trip and a summer of fun.  
+**TRAVEL BLOG -**  European vacation is vacillating between an educational field trip and a summer of fun.  
 
 As with any international journey, Europe enriched us with life lessons, authentic experiences, and meaningful connections between reading and reality. 
 
@@ -71,11 +71,15 @@ This has already been the most meaningful trip of a lifetime, and it’s not eve
 
 
 
+
+
+
+
 # SMALLEST COUNTRY WORLDWIDE 
 
 ## (TIME STAMPED: Satuday, June 8, 2019/5:00 p.m.)
 
-We’ve been on the Continent of Europe 14 days, and our 5 days in Italy proved perfect for sightseeing, shopping and satisfying our appetite. 
+**TRAVEL BLOG -** We’ve been on the Continent of Europe 14 days, and our 5 days in Italy proved perfect for sightseeing, shopping and satisfying our appetite. 
 
 Now we’re heading to the country of Austria to visit the beautiful city of Vienna.
 
@@ -131,11 +135,19 @@ As we say goodbye, boarding our first-class high speed train heading to Vienna, 
 
  Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
 
+
+
+
+
+
+
+
+
 # ROME IS RIVETING
 
 ## (TIME STAMPED: Thursday, June 6, 2019/12:30 a.m.)
 
-Where are my gladiators? If you like movies like Gladiator, Troy, Spartacus, Kingdom of Heaven, Robin Hood, or 300: Rise of an Empire, then visit Rome. 
+**TRAVEL BLOG -** Where are my gladiators? If you like movies like Gladiator, Troy, Spartacus, Kingdom of Heaven, Robin Hood, or 300: Rise of an Empire, then visit Rome. 
 
 We’ve marched miles through the motorways of Rome on a mission to discover hidden architectural jewels. 
 
@@ -183,11 +195,19 @@ Meanwhile, enjoy the recent photos we’ve uploaded detailing major landmarks in
 
  Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
 
+
+
+
+
+
+
+
+
 # SECRETS SURROUNDING SWITZERLAND
 
 ## (TIME STAMPED: Monday, June 3, 2019/11:45 p.m.)
 
-We settled into the sunset of stunning Switzerland – with 4,600 feet mountaintops surrounding small towns as the sunlight skips across clear blue lakes.
+**TRAVEL BLOG -** We settled into the sunset of stunning Switzerland – with 4,600 feet mountaintops surrounding small towns as the sunlight skips across clear blue lakes.
 
 This wife and daughter and mine are amazingly advanced travelers; they get up early prepared to face the foreign challenges and chaos of the day.
 
@@ -287,7 +307,7 @@ The adrenalin of rushing to Rome is unmistakable, considering that the ancient r
 
 ## (TIME STAMPED: Sunday, June 2, 2019/10:00 p.m.)
 
-Supporters across the United States have been following our family travel blog and asking really great questions.
+**TRAVEL BLOG -** Supporters across the United States have been following our family travel blog and asking really great questions.
 
 Readers are inspired.
 
@@ -455,7 +475,7 @@ _Switching Scenery from Spain to Switzerland_ 
 
 ## (TIME STAMPED: Saturday, June 1, 2019/11:35 p.m.)
 
-Traveling to 13 countries in one summer is a huge undertaking – I’ve questioned my sanity and still think I’m a genius.
+**TRAVEL BLOG -** Traveling to 13 countries in one summer is a huge undertaking – I’ve questioned my sanity and still think I’m a genius.
 
 Besides, it’s been said that the definition of insanity is always doing the same thing and expecting a different result. 
 
@@ -523,13 +543,31 @@ All aboard - this train is heading to the Swiss Alps of Central Europe.
 
  Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
 
+
+
+
+
+
+
 # TIPS TO TRAVELING COUNTRY TO COUNTRY  
 
 ## (TIME STAMPED: Friday, May 31, 2019/5:45 p.m.)
 
-A multi-destination trip to Europe is for the brave-hearted – it’s exciting, adventurous and daring. While doing so, there are a few tedious tips travelers need to heed. When leaving places like Paris, heading to Barcelona on these European bullet trains time warping at over 210 miles per hour, there are critical travel tips to consider. 
+**TRAVEL BLOG -** A multi-destination trip to Europe is for the brave-hearted – it’s exciting, adventurous and daring. 
 
-For starters, restrooms or toilets can be located nearly a mile away from any given spot at a depot. So, if you have a weak bladder, plan ahead or wear depends – seriously. Also, some restroom cost about 0.80 euros, which is about $1 - keep that in mind. It seems like the closer we get to a restroom, psychologically the body relaxes itself – ordinarily that’s a good thing. However, the urgency and discomfort of thinking you have access to a toilet, and then suddenly realizing you have no currency at hand can be excruciating.
+While doing so, there are a few tedious tips travelers need to heed. 
+
+When leaving places like Paris, heading to Barcelona on these European bullet trains time warping at over 210 miles per hour, there are critical travel tips to consider. 
+
+For starters, restrooms or toilets can be located nearly a mile away from any given spot at a depot. 
+
+So, if you have a weak bladder, plan ahead or wear depends – seriously. 
+
+Also, some restroom cost about 0.80 euros, which is about $1 - keep that in mind.
+
+ It seems like the closer we get to a restroom, psychologically the body relaxes itself – ordinarily that’s a good thing. 
+
+However, the urgency and discomfort of thinking you have access to a toilet, and then suddenly realizing you have no currency at hand can be excruciating.
 
 As you probably sensed, I’ve been there – thankfully, my bladder is strong.
 
@@ -567,15 +605,23 @@ Just keep in mind that once you make those purchases, your trip is set in stone.
 
 At that point, there will be an additional cost for spontaneity. 
 
-Once you arrive in country, you’ll notice that these train depots are huge buildings occupied by restaurants, banks, fresh food markets, deli shops, and more. There so much going on – from different dialogues and languages, and military security armed with machine guns, to worldwide travelers taking trains that look like torpedoes.
+Once you arrive in country, you’ll notice that these train depots are huge buildings occupied by restaurants, banks, fresh food markets, deli shops, and more. 
+
+There is so much going on – from different dialogues and languages, and military security armed with machine guns, to worldwide travelers taking trains that look like torpedoes.
 
 Pardon me, as I continue gazing amid these picturesque views and soaking up the sensation of serenity.
 
 I’ll write a separate blog about Barcelona in my next post and add some panoramic photos of Spain into my full gallery.
 
-Remember, after all your research, Europe is a well connected Continent of 44 countries, and you’ll definitely want to visit more than just one upon crossing the Atlantic Ocean. Meanwhile, as we continue to commute throughout various countries, our first-hand tips are sure to save researchers and readers lots of cash and concern. 
+Remember, after all your research, Europe is a well connected Continent of 44 countries, and you’ll definitely want to visit more than just one upon crossing the Atlantic Ocean. 
+
+Meanwhile, as we continue to commute throughout various countries, our first-hand tips are sure to save researchers and readers lots of cash and concern. 
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
+
+
+
+
 
 # PARIS NEVER SLEEPS
 
@@ -625,6 +671,12 @@ For now, off to Spain we go.
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
 
+
+
+
+
+
+
 # THE FASHION, FUN AND EIFFEL TOWER OF PARIS
 
 ## (TIME STAMPED: Wednesday, May 29, 2019/10:04 p.m.)
@@ -655,11 +707,17 @@ I gotta go – Paris await my presence!
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
 
+
+
+
+
+
+
 # CHANGE OF PLANS 
 
 ##   (TIME STAMPED: Tuesday, May 28, 2019/11:45 p.m.)
 
-**TRAVEL BLOG -**    are in Paris now. Let me explain.
+**TRAVEL BLOG -**    We are in Paris now. Let me explain.
 
 So, today, we discovered that the European International Train workers in Amsterdam are on strike. 
 
@@ -694,6 +752,14 @@ For now, I have to get some rest – this is definitely the best trip ever, asid
 For those of you that are dreaming of coming to Paris one day – see you in your dreams.
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
+
+
+
+
+
+
+
+
 
 # LONDON, ENGLAND  (The UK)  
 
@@ -742,6 +808,14 @@ The monuments and memories of London are a reminder of American history at its o
 We may have landed, but it feels like our feet haven’t touched the ground – we’re having a blast!
 
 Visit my [FULL GALLERY](https://anthonythigpen.com) of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries. 
+
+
+
+
+
+
+
+
 
 # TRAVELING WITH TEAM THIGPEN
 
