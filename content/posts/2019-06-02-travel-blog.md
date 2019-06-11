@@ -1,12 +1,144 @@
 ---
 title: 'TRAVEL BLOG '
-Subtitle: "HISTORY OF THE HOLOCAUST IN AUSTRIA\_\L\L"
+Subtitle: HILTON HOTELS ARE NOT CREATED EQUAL
 category: SOCIAL
-cover: /images/uploads/035a5234.jpg
+cover: /images/uploads/035a5338.jpeg
 portrait: /images/uploads/img_0005.jpeg
 author: 'Anthony KaDarrell Thigpen '
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience publishing. AP Style news writing, marketing and photography are his passions.'
 ---
+# HILTON HOTELS ARE NOT CREATED EQUAL
+
+## (TIME STAMPED: Tuesday, June 11, 2019/8:50 p.m.)
+
+**TRAVEL BLOG -**   Hilton is unquestionably a great lodging option, especially when traveling abroad. 
+
+ In tradition of saving the best for last, let me start by giving you some need-to-know information about Hilton Hotels.
+
+ Hotels should be judged by a combination of qualities, like hospitality, food, beverages, pricing, room accommodations and general location – oh, and of course regional competition. 
+
+ After doing business with Hilton Hotels in the United States, London, Amsterdam, France, Switzerland, Italy, Croatia, Hungary, Austria, Germany and Luxembourg, I’ve paid the price to have an educated opinion. 
+
+ About 4 of these Hotels were last-minute-overseas-non refundable-prepaid cancelations. 
+
+ However, each of these Hotels canceled my stay and refunded my payment the same day, without any penalties.  This type of unexpected courtesy is one of the reasons I prefer hotels like Hilton. 
+
+This article is not a paid endorsement.
+
+ I simply called the Hilton Honors 1-800 number and the representatives successfully went to work on my behalf.
+
+Stateside assistance 24/7 especially helps when members are over 5000 miles from home, in a different time zone.
+
+Some operators obviously have bad days, because one Hilton employee with a strong Asian accent by the name of Gayle B. was shockingly rude.
+
+She wouldn’t help me, wouldn’t transfer me to a supervisor, wouldn’t allow me to speak to a co-worker, wouldn’t take a message, wouldn’t give me any options, and wouldn’t give me any identifying employee information.
+
+Perhaps Gayle B. shouldn’t work for Hilton customer service. After dealing with Hilton Hotel employees internationally, she was one of Hilton’s worse employees worldwide, literally speaking.  
+
+ Oh, did I mention that I’m a member of Hilton Hotels loyalty program.
+
+During our recent travels, we concluded that Hilton Hotels aren’t created equal. Hilton categorize their hotels according to 14 brand with distinct characteristics.
+
+ You’ve probably heard of a few, the Doubletree, Embassy Suites and Hilton Garden Inn, just to name a few. 
+
+ Some of these Hotels offer relaxing resort style living and others are nothing more than poorly put together pit stops.  
+
+Here are some of our recent experiences.
+
+Our room in London was too small, although that’s not completely unusual for European style accommodations.
+
+ However, it is falsely advertised as an airport hotel - thankfully we came prepared for curb balls.
+
+ The front desk concierge gave us bad directions - but we always ask around, use Google map and write down navigation instructions.
+
+ Other than that, at least the hot breakfast put a complimentary meal on our stomachs to start our day – I’d actually return as a much happier guest now that I know what to expect.
+
+ I can’t say the same about the Hilton in Barcelona, I was quoted a price for my room, but upon arrival they changed our accommodations and the price.
+
+ The desk clerk repeatedly said our breakfast was complimentary, but it wasn’t – only had we learned that prior to eating.
+
+To make matters worse, the Hilton employees in Barcelona don’t quite understand the concept of hospitality. 
+
+ While the beautiful hotel was in a safe area, this miscommunication can inconvenience a 3-week budgeted trip.  This is why we factored extra cash flow into our budget. 
+
+Italy and Rome Hilton Hotels have something in common, you’d better be prepared to take public transportation or pay high taxi fees. 
+
+ These hotels are no where near any of the tourist attractions as advertised.
+
+ While you get a better feel for how the natives live, which I prefer, some people might not feel safe in these neighborhoods. 
+
+ Both rooms were comfortable, the staffing was exceptional, and breakfast at both was complimentary, clean and tasty.
+
+A simple online Hilton travel guide would have helped eliminate concerns, especially while traveling as a family.
+
+Now some Hilton Hotels need far more than a travel guide, for example, the Luxembourg Hilton should be shutdown. 
+
+Hilton Luxembourg left us at a loss, even my 13-year-old daughter was disappointed. 
+
+Look, I like a firm mattress, but beds shouldn’t sleep like carpeted concrete floors.
+
+The food experience was frightening. The head waitress is unquestionably ill-mannered, the drinks are overpriced, and the restaurant feels like an uninviting cold cafeteria with slow service.
+
+If you’re hungry, be prepared to wait, and wait, and wait… don’t be quick to start stuffing yourself with dinner rolls either.
+
+We watched a waitress drop several items on the floor, yep, even a dinner roll, only to have them served to other guests.
+
+To add injury to insult, chips of glass slapped against my face when one nearby waitress dropped her platter.
+
+Now, as for the rooms, I thought we were on candid camera and this was some sort of end-of-our-journey joke.
+
+The internet moves like molasses, the hidden away hotel offers weekend-only shuttle services back to civilization, and the keycard is guaranteed to stop working – so get a new one before taking the aged-old elevator to the 8th floor.
+
+After being here one night, the cleaning crew knocked on the door informing my wife that our stay was over. Hours later, the front desk called sternly insisting that we checkout. After a polite reminder, the staff triple checked our reservation, only to discover that we’d prepaid for a 2 night stay months. 
+
+Hilton Luxembourg left nothing to be desired. In fact, Hilton ought to be to ashamed to have this establishment representing their name without making some serious enhancements.
+
+They need hospitality training, new chefs, new waitresses, a maintenance review, new hotel strategies, a food, beverage and room pricing assessment, better mattresses, better internet and some basic remodeling. 
+
+It’s not even worth a rating, because it certainly doesn’t compare to the chain of Hilton hotels we’ve occupied over the past 3 weeks in Europe.
+
+As promised, I’ve saved the best for last. 
+
+ Zürich Switzerland and Vienna Austria were our favorite Hilton choices throughout Europe. 
+
+ These hotels had the largest rooms, best service, most delicious food and tasty beverages. 
+
+Our Switzerland blog bragged about the brilliant Zurich Hilton staff, now let’s discuss the hotel that inspired this Hilton-only blog.  
+
+Our bartender in Vienna was the amazing Anna. 
+
+ She went to “The First Austrian Bartending School” and it must’ve truly paid off.
+
+ Anna says she likes bartending because it allows her to make drinks fresh, strong, sweet, salty or however the customer likes it. 
+
+And I liked it!
+
+ “It’s like cooking with liquids,” she explained. “I have many of my own creations.” 
+
+ While visiting the same Hilton restaurant, Emile Plaza, we met junior sous chef, Kai – the highlight of our evening is from South Korea, but trained in a Berlin based culinary school. 
+
+ Like Ana, Kai has such a love for his profession and people that you can feel their welcoming energy.
+
+ Kai says he actually dedicated 30 days to different diets, from vegan and vegetarian to Paleo and Ketogenic. 
+
+ With high hopes of making Hilton guests happy, Kai has experimented with many unique diets. 
+
+ He prepared a picture perfect vegan feast for my family that we will always cherish – it was so delicious that my wife said, “It makes me want to slap my momma” – not that she’d ever slap my mother-in-love. 
+
+ Janet was another restaurant worker who came over with the food and beverage supervisor Jan to make us feel welcomed. 
+
+The entire staff was well trained and simply the best.
+
+The Hilton Vienna and Zurich Hilton have hypnotizing hospitality that leave guests craving another visit.
+
+When compared to places like Luxembourg, the staff, services and facilities in Zurich and Vienna provide proof that all Hilton Hotels are not created equal.
+
+ Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
+
+
+
+
+
 # HISTORY OF THE HOLOCAUST IN AUSTRIA   
 
 ## (TIME STAMPED: Monday, June 10, 2019/11:45 p.m.)
