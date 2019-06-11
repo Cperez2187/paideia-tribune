@@ -1,6 +1,6 @@
 ---
 title: 'TRAVEL BLOG '
-Subtitle: HILTON HOTELS ARE NOT CREATED EQUAL
+Subtitle: 'HILTON HOTELS ARE NOT CREATED EQUAL '
 category: SOCIAL
 cover: /images/uploads/vienna-hilton.jpeg
 portrait: /images/uploads/img_0005.jpeg
