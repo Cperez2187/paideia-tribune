@@ -1,5 +1,5 @@
 ---
-title: 'TRAVEL BLOG '
+title: 'TRAVEL BLOG  '
 Subtitle: 'LUXURIES OF LUXEMBOURG '
 category: SOCIAL
 cover: /images/uploads/035a5465.jpg
