@@ -2,7 +2,7 @@
 title: 'TRAVEL BLOG '
 Subtitle: 'HILTON HOTELS ARE NOT CREATED EQUAL '
 category: SOCIAL
-cover: /images/uploads/vienna-hilton.jpeg
+cover: /images/uploads/035a5338.jpeg
 portrait: /images/uploads/img_0005.jpeg
 author: 'Anthony KaDarrell Thigpen '
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience publishing. AP Style news writing, marketing and photography are his passions.'
