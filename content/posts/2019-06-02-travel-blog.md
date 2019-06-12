@@ -1,12 +1,54 @@
 ---
 title: 'TRAVEL BLOG '
-Subtitle: 'HILTON HOTELS ARE NOT CREATED EQUAL '
+Subtitle: 'LUXURIES OF LUXEMBOURG '
 category: SOCIAL
-cover: /images/uploads/035a5338.jpeg
+cover: /images/uploads/035a5465.jpg
 portrait: /images/uploads/img_0005.jpeg
 author: 'Anthony KaDarrell Thigpen '
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience publishing. AP Style news writing, marketing and photography are his passions.'
 ---
+# LUXURIES OF LUXEMBOURG 
+
+## (TIME STAMPED: Wednesday, June 12, 2019/12:15 p.m.)
+
+**TRAVEL BLOG** – All good things must come to an end. We’re leaving Luxembourg and heading back to London, but not without taking a daytrip to Brussels, Belgium. 
+
+Luxembourg was quite unique in about 20 different ways – we loved our experience of city tours and scavenger hunting for a rare depiction of the virgin Mary. 
+
+1. Luxembourg is the richest country in the world, ranked by its GDP (gross domestic product) per capita. 
+
+2. This country has the highest minimum wage in the EU (European Union).
+
+3. It is one of the safest countries in the world. According to a United Nations survey, you have less chance of being shot in Luxembourg than in any other country worldwide. 
+
+4. Nearly half of Luxembourg’s workforce commutes to work from another country. Luxembourg is the only Grand Duchy in the world. After the defeat of Napoleon in 1815, the Congress of Vienna, Austria made Luxembourg a Grand Duchy, a state or territory ruled by a grand duke or duchess. The country’s full name is the Grand Duchy of Luxembourg. 
+
+6. It is named after a Saxon fortress. It was founded in 963 AD as the County of Luxembourg by Sigefroid, who built a fort on the site; the ancient Saxon named it Lucilinburhuc (little fortress) symbolizing its strategic position. 
+
+13. Euthanasia and assisted suicide is legal in Luxembourg.
+
+14. Luxembourg is one of the smallest countries in the world. It is slightly smaller than the state of Rhode Island in America. 
+
+15. The country is the least populated of all the EU countries. It has a population of just over half a million people (563,000).
+
+16. It is one of the world’s major financial and business centers. It’s home to the European Investment Bank and more than 150 others. 
+
+17. Luxembourg’s RTL (Radio Television Luxembourg) Group is Europe’s largest TV, radio and production company.
+
+18. The city was the first to be listed twice as the European Capital of Culture.
+
+19. Luxembourg is home to one of the few ancient statues of the Black Virgin Mary, and my wife had us walking and searching citywide until we found it.
+
+20. In the main square, directly across the street from the Duke’s palace, there’s a vegan restaurant called Beets, with super fantastic service and delicious dishes. 
+
+The greatest luxury we witnessed in Luxembourg is watching people mind their own business in a quiet and peaceful city that is secluded away as a hassle-free society. 
+
+ Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
+
+
+
+
+
 # HILTON HOTELS ARE NOT CREATED EQUAL
 
 ## (TIME STAMPED: Tuesday, June 11, 2019/8:50 p.m.)
@@ -134,10 +176,6 @@ The Hilton Vienna and Zurich Hilton have hypnotizing hospitality that leave gues
 When compared to places like Luxembourg, the staff, services and facilities in Zurich and Vienna provide proof that all Hilton Hotels are not created equal.
 
  Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
-
-
-
-
 
 # HISTORY OF THE HOLOCAUST IN AUSTRIA   
 
