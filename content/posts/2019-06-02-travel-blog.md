@@ -1,8 +1,8 @@
 ---
-title: 'TRAVEL BLOG '
+title: 'TRAVEL BLOG  '
 Subtitle: 'LUXURIES OF LUXEMBOURG '
 category: SOCIAL
-cover: /images/uploads/035a5465.jpg
+cover: /images/uploads/035a5461.jpg
 portrait: /images/uploads/img_0005.jpeg
 author: 'Anthony KaDarrell Thigpen '
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience publishing. AP Style news writing, marketing and photography are his passions.'
