@@ -1,13 +1,52 @@
 ---
 title: 'TRAVEL BLOG  '
-Subtitle: 'LUXURIES OF LUXEMBOURG '
+Subtitle: ADDING UP THE COST
 category: SOCIAL
-cover: /images/uploads/035a5465.jpg
+cover: /images/uploads/035a5641.jpeg
 portrait: /images/uploads/img_0005.jpeg
 author: 'Anthony KaDarrell Thigpen '
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience publishing. AP Style news writing, marketing and photography are his passions.'
 ---
-# LUXURIES OF LUXEMBOURG 
+# ADDING UP THE COST
+
+![](/images/uploads/035a5641.jpeg)
+
+## (TIME STAMPED: Thursday, June 13, 2019/9:30 a.m.)
+
+**TRAVEL BLOG** –   It takes a certain kind of person to possession the willingness to travel. We’ve safely returned to London after crisscrossing from the north, west, south and east of the European Union. 
+
+We’re prepped to fly home to the valley of the sun and enjoy the rest of our summer in Arizona.
+
+This excursion took a lot of energy, but it was well worth the price we had to pay in order to experience countless cultures and see the world firsthand. 
+
+So, what exactly did we pay for a trip like this?  Well, money is a minor obstacle for many. 
+
+This exciting escapade globetrotting between 10 countries and 2 continents, cost more than European euros, American dollars and Swiss franks.
+
+We've traveled the distance of 14,200 miles;  Walked over 115 miles;  Took about 220,000 steps; Secured 19 vacation days;  Traveled by taxi, train, plane, bus, boat, tube, trolley, subway and metro;  Communicated by Facebook, Instagram, What’sApp and cellular phone; Stayed in Hilton Hotels Rooms more than 16 nights; Spent well over 10,000 euros;  Carry about 80 pounds of luggage from country to country;  Traveled between 10 countries in almost 3 weeks;  Ate more than 10 pizzas, 10 servings of gelato, and 6 plates of pasta  - and then some;  Purchased clothes, jewelry and shoes;  Spent about $1000 in same-day Eurail Reservations; Crushed 1 cellular phone screen; Lost 1 book; Misplaced 1 rain jacket; Traveled by day and by night;  Communicated amid 4 foreign languages;  Wrote over 12 travel blogs;  Hailed over 15 taxis;  Traveled by speed train at over 210 mph;  Traveled on 11 international trains;  Traveled on 4 airplanes;  Watched 3 Netflix series;  Entertained no arguments, no drama, no foolishness;  Re-routed our originally planned trip twice;  Scouted out more than 20-30 famous landmarks and monuments;  We were 9 hours ahead of Mountain time and 7 hour ahead of Central time; AND  We’ve climbed countless hills, took countless elevators (lifts in Europe), and been up and down countless escalators. 
+
+  When you add it all up, the sum total will prove that traveling costs more than money and time, that’s one of the reasons why people refer to international travel as life changing. 
+
+In addition to finances, you’ll need willpower, physical strength, emotional energy, and strategic planning to carry out a multi-country travel excursion successfully. 
+
+So, if you read my blogs from start to finish, you’ll know the 10 MOST IMPORTANT TIPS you need in order to make the most of your own family field trip overseas:
+
+1. Budgeting for a Major Family Vacation 
+2. Making Fun Family Memories
+3. Bringing Textbook History Alive
+4. Capturing Surreal Photos
+5. Learning New Cultures Hands-on
+6. How to Pack for a Lengthy Vacation 
+7. Gain Travel Tips to Explore the World
+8. How to Function as a Foreigner 
+9. Navigating European Railways
+10. Making the Most of Your Summer Trip 
+
+Feel free to send me a message at www.PaideiaTribune.com or www.AnthonyThigpen.com and let me know how these travel tips helped you. Also, if you have any questions or concerns about traveling abroad, perhaps we can help eliminate your anxieties about an amazing journey. We understand the price people have to pay in order to step outside their comfort zones, and we’re here to help you by paying it forward. 
+
+ Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
+
+# LUXURIES OF LUXEMBOURG
 
 ## (TIME STAMPED: Wednesday, June 12, 2019/12:15 p.m.)
 
@@ -16,38 +55,22 @@ about: ' studied journalism at the University of St. Thomas and has over 25 year
 Luxembourg was quite unique in about 20 different ways – we loved our experience of city tours and scavenger hunting for a rare depiction of the virgin Mary. 
 
 1. Luxembourg is the richest country in the world, ranked by its GDP (gross domestic product) per capita. 
-
 2. This country has the highest minimum wage in the EU (European Union).
-
 3. It is one of the safest countries in the world. According to a United Nations survey, you have less chance of being shot in Luxembourg than in any other country worldwide. 
-
 4. Nearly half of Luxembourg’s workforce commutes to work from another country. Luxembourg is the only Grand Duchy in the world. After the defeat of Napoleon in 1815, the Congress of Vienna, Austria made Luxembourg a Grand Duchy, a state or territory ruled by a grand duke or duchess. The country’s full name is the Grand Duchy of Luxembourg. 
-
-6. It is named after a Saxon fortress. It was founded in 963 AD as the County of Luxembourg by Sigefroid, who built a fort on the site; the ancient Saxon named it Lucilinburhuc (little fortress) symbolizing its strategic position. 
-
-13. Euthanasia and assisted suicide is legal in Luxembourg.
-
-14. Luxembourg is one of the smallest countries in the world. It is slightly smaller than the state of Rhode Island in America. 
-
-15. The country is the least populated of all the EU countries. It has a population of just over half a million people (563,000).
-
-16. It is one of the world’s major financial and business centers. It’s home to the European Investment Bank and more than 150 others. 
-
-17. Luxembourg’s RTL (Radio Television Luxembourg) Group is Europe’s largest TV, radio and production company.
-
-18. The city was the first to be listed twice as the European Capital of Culture.
-
-19. Luxembourg is home to one of the few ancient statues of the Black Virgin Mary, and my wife had us walking and searching citywide until we found it.
-
-20. In the main square, directly across the street from the Duke’s palace, there’s a vegan restaurant called Beets, with super fantastic service and delicious dishes. 
+5. It is named after a Saxon fortress. It was founded in 963 AD as the County of Luxembourg by Sigefroid, who built a fort on the site; the ancient Saxon named it Lucilinburhuc (little fortress) symbolizing its strategic position. 
+6. Euthanasia and assisted suicide is legal in Luxembourg.
+7. Luxembourg is one of the smallest countries in the world. It is slightly smaller than the state of Rhode Island in America. 
+8. The country is the least populated of all the EU countries. It has a population of just over half a million people (563,000).
+9. It is one of the world’s major financial and business centers. It’s home to the European Investment Bank and more than 150 others. 
+10. Luxembourg’s RTL (Radio Television Luxembourg) Group is Europe’s largest TV, radio and production company.
+11. The city was the first to be listed twice as the European Capital of Culture.
+12. Luxembourg is home to one of the few ancient statues of the Black Virgin Mary, and my wife had us walking and searching citywide until we found it.
+13. In the main square, directly across the street from the Duke’s palace, there’s a vegan restaurant called Beets, with super fantastic service and delicious dishes. 
 
 The greatest luxury we witnessed in Luxembourg is watching people mind their own business in a quiet and peaceful city that is secluded away as a hassle-free society. 
 
  Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
-
-
-
-
 
 # HILTON HOTELS ARE NOT CREATED EQUAL
 
