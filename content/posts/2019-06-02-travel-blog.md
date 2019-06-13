@@ -9,6 +9,8 @@ about: ' studied journalism at the University of St. Thomas and has over 25 year
 ---
 # ADDING UP THE COST
 
+![](/images/uploads/035a5641.jpeg)
+
 ## (TIME STAMPED: Thursday, June 13, 2019/9:30 a.m.)
 
 **TRAVEL BLOG** –   It takes a certain kind of person to possession the willingness to travel. We’ve safely returned to London after crisscrossing from the north, west, south and east of the European Union. 
@@ -29,33 +31,20 @@ In addition to finances, you’ll need willpower, physical strength, emotional e
 
 So, if you read my blogs from start to finish, you’ll know the 10 MOST IMPORTANT TIPS you need in order to make the most of your own family field trip overseas:
 
-1.	Budgeting for a Major Family Vacation 
-
-2.	Making Fun Family Memories
-
-3.	Bringing Textbook History Alive
-
-4.	Capturing Surreal Photos
-
-5.	Learning New Cultures Hands-on
-
-6.	How to Pack for a Lengthy Vacation 
-
-7.	Gain Travel Tips to Explore the World
-
-8.	How to Function as a Foreigner 
-
-9.	Navigating European Railways
-
-10.	Making the Most of Your Summer Trip 
+1. Budgeting for a Major Family Vacation 
+2. Making Fun Family Memories
+3. Bringing Textbook History Alive
+4. Capturing Surreal Photos
+5. Learning New Cultures Hands-on
+6. How to Pack for a Lengthy Vacation 
+7. Gain Travel Tips to Explore the World
+8. How to Function as a Foreigner 
+9. Navigating European Railways
+10. Making the Most of Your Summer Trip 
 
 Feel free to send me a message at www.PaideiaTribune.com or www.AnthonyThigpen.com and let me know how these travel tips helped you. Also, if you have any questions or concerns about traveling abroad, perhaps we can help eliminate your anxieties about an amazing journey. We understand the price people have to pay in order to step outside their comfort zones, and we’re here to help you by paying it forward. 
 
  Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
-
-
-
-
 
 # LUXURIES OF LUXEMBOURG
 
