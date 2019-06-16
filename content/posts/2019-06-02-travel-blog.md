@@ -13,7 +13,7 @@ about: ' studied journalism at the University of St. Thomas and has over 25 year
 
 ## (TIME STAMPED: Thursday, June 13, 2019/9:30 a.m.)
 
-**TRAVEL BLOG** –   It takes a certain kind of person to possession the willingness to travel. We’ve safely returned to London after crisscrossing from the north, west, south and east of the European Union. 
+**TRAVEL BLOG** –   It takes a certain kind of person to possess the willingness to travel. We’ve safely returned to London after crisscrossing from the north, west, south and east of the European Union. 
 
 We’re prepped to fly home to the valley of the sun and enjoy the rest of our summer in Arizona.
 
