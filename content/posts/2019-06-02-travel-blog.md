@@ -7,9 +7,9 @@ portrait: /images/uploads/img_2690.jpg
 author: 'Anthony KaDarrell Thigpen '
 about: ' studied journalism at the University of St. Thomas and has over 25 years-experience publishing. AP Style news writing, marketing and photography are his passions.'
 ---
-# FAMILY FIELD TRIP 
+# FAMILY FIELD TRIP
 
-Travel with the Thigpens throughout their European field trip. We want other families to share the same life-changing experiences we have. 
+ Travel with the Thigpens throughout their European field trip. We want other families to share the same life-changing experiences we have. 
 
 ![FAMILY  FIELD TRIP](/images/uploads/anthonythigpen.jpg "The HOW TO Guide for Family Traveling and Blogging ")
 
@@ -24,8 +24,6 @@ Overseas travel is a great learning experience that allows the entire family to 
 This book of blogs will inspire readers to BREAK AWAY from stress and routine. 
 
 We will help make your dream vacation become a reality for the entire family.
-
-
 
 ![FAMILY FIELD TRIP](/images/uploads/3d-2.jpg "European Travel Tips")
 
