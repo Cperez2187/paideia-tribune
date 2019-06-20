@@ -1,5 +1,5 @@
 ---
-title: 'TRAVEL BLOG BOOK '
+title: 'TRAVEL BLOG "THE BOOK" '
 Subtitle: European Travel Tips
 category: SOCIAL
 cover: /images/uploads/3d-2.jpg
