@@ -29,4 +29,4 @@ We will help make your dream vacation become a reality for the entire family.
 
 Now available at [Amazon](https://www.amazon.com/dp/1733658343/ref=sr_1_3?keywords=Anthony+KaDarrell+Thigpen&qid=1561120626&s=gateway&sr=8-3). 
 
-Alos, visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation color images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
+Also, visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation color images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
