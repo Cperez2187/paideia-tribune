@@ -9,7 +9,7 @@ about: ' studied journalism at the University of St. Thomas and has over 25 year
 ---
 # FAMILY FIELD TRIP
 
- Travel with the Thigpens throughout their European field trip. We want other families to share the same life-changing experiences we have. 
+[CLICK HERE TO GET THE NEW BOOK](https://www.amazon.com/dp/1733658343/ref=sr_1_3?keywords=Anthony+KaDarrell+Thigpen&qid=1561120626&s=gateway&sr=8-3) to travel with the Thigpens throughout their European field trip. We want other families to share the same life-changing experiences we have. 
 
 ![FAMILY  FIELD TRIP](/images/uploads/anthonythigpen.jpg "The HOW TO Guide for Family Traveling and Blogging ")
 
@@ -27,6 +27,6 @@ We will help make your dream vacation become a reality for the entire family.
 
 ![FAMILY FIELD TRIP](/images/uploads/3d-2.jpg "European Travel Tips")
 
-Coming to Amazon.com in Only 48 Hours. New Literacy in Motion Book Launch, Sunday, June 23rd! 
+Now available at [Amazon](https://www.amazon.com/dp/1733658343/ref=sr_1_3?keywords=Anthony+KaDarrell+Thigpen&qid=1561120626&s=gateway&sr=8-3). 
 
-Visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
+Alos, visit my [FULL GALLERY ](https://anthonythigpen.com)of Europe vacation color images by clicking the icon in the photography section of this page and then scroll down to the newest photo entries.
