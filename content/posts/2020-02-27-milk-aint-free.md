@@ -22,8 +22,6 @@ There’s a new-aged crave for happiness, and millennials are stirring the pot t
 
 In so much that according to the 2019 U.S. Census report, far more people are cohabiting, instead of getting hitched.
 
-
-
 # **HOW DID I GET HERE?**
 
 ![](/images/uploads/photo-1581945985234-58e1989f1061.jpeg)
@@ -72,11 +70,7 @@ Until the worst actually happens, those vows don’t mean a thing.
 
 On top of that, trying to find the daily balance between self-fulfillment and selflessly caring for a spouse will leave you wondering, “How did I get here?”
 
-
-
 ## **WHEN YOUR SPOUSE SECRETLY DESPISES YOU**
-
-
 
 Every childhood fairytale seems to end with the expression, “And they lived happily ever after, THE END.”
 
@@ -84,13 +78,11 @@ After your wedding day, you realize that the narrative ended prematurely.
 
 Your personal experience will define the rest of your fairytale.
 
-
-
 ## **ARE YOUR WEDDING BANDS HANDCUFFS?**
 
-
-
 After the wedding cake is cut and you realize that you’ve jumped the broom into a dust storm of disappointments, now what?
+
+![](/images/uploads/photo-1553915632-175f60dd8e36.jpeg)
 
 Since the nuptials, the way he used to make you feel fades into a distant memory, and the things she used to do, “she’s don’t do no-more”.
 
@@ -108,35 +100,18 @@ However, upon divorce, the index finger stays stuck pointing in the opposite dir
 
 Family and friends are forced to take sides, but nobody truly knows what happened behind closed doors.
 
+###  **  10 Real Reasons Why Marriages Fail**
 
-
-### **10 Real Reasons Why Marriages Fail**
-
-
-
-1. Loss of sense of individuality and/or identity
-
-2. Expecting someone else to make you happy
-
-3. Bringing old baggage into your new marriage
-
-4. Pointing the blame and accepting no responsibility
-
-5. Poor pre-marital preparations/counseling
-
-6. Misguided social media influences
-
-7. Inability to escape the trauma of the past
-
-8. Failure to find a balance between self-fulfillment and selflessness
-
-  9. Focused on your spouse’s flaws instead of strengthening your own weaknesses.
-
-10.Subconsciously submitting to the negative influences of friends
-
-
-
-
+* Loss of sense of individuality and/or identity
+* Expecting someone else to make you happy
+* Bringing old baggage into your new marriage
+* Pointing the blame and accepting no responsibility
+* Poor pre-marital preparations/counseling
+* Misguided social media influences
+* Inability to escape the trauma of the past
+* Failure to find a balance between self-fulfillment and selflessness
+* Focused on your spouse’s flaws instead of strengthening your own weaknesses.
+* Subconsciously submitting to the negative influences of friends
 
 Ultimately, all marriages end in divorce because of your own inabilities and shortcomings.
 
@@ -158,15 +133,13 @@ There are other solutions to resolving issues in your marriage rather than disso
 
 Unless you make poor relationship choices and you married someone who is physically threatening your life.
 
-
-
 ## **BAD CHOICE FROM THE BEGINNING**
-
-
 
 Some people make bad choices right from the start.
 
 They race from the bedroom, to the delivery table, and then straight to the altar. An unwed pregnancy is no reason to get married.
+
+![](/images/uploads/crosses_and_crowns_blurry.jpg)
 
 Neither is getting married for sex, money, peer pressure, and social norms – all of these bad choices will likely end with a nightmare.
 
@@ -192,15 +165,13 @@ So, unless your life is in jeopardy, deal with it – accept your own failures, 
 
 The moment you walk out on your mistake without accepting your own blame, you’ll take the same garbage to a bigger mansion.
 
-
-
 ## **WHEN IT SEEMS LIKE IT OVER**
-
-
 
 Truth is, counseling works. A lot of people don’t believe in therapy, especially black folks, but it actually helps.
 
 Even when you get to the point of packing your bags, thinking evil thoughts, untying your finances, and sleeping in separate rooms, with the right combination of support, your marriage can survive.
+
+![](/images/uploads/photo-1510932742089-bef92acabb5b.jpeg)
 
 The reason you feel so passionate about your spouse is because there is a thin line between love and hate.
 
@@ -208,33 +179,18 @@ If you didn’t love one another with all your heart, you would spend so much ne
 
 Marriage is something worth fighting for – it’s a reflection of who you are internally, believe it or not.
 
+ **   10 Tips to Saving Your Marriage**
 
-
-**10 Tips to Saving Your Marriage**
-
-
-
-1. Seek Counseling For Yourself and Your Marriage
-
-2. Surround Yourself With Supportive People
-
-3. Play and Pray Together
-
-4. Reminisce Over Photos About the Good Ole Days
-
-5. Write Down Your Marital Goals
-
-6. Occupy Your Mind with Positive Videos, Books, and Hobbies
-
-7. Stop Complaining To Friends and Family
-
-8. Get Spiritually Grounded
-
-9. Spend Time Alone Away From Outside Influences
-
-10.Focus On Turning Your Own Weaknesses Into Strengths
-
-
+* Seek Counseling For Yourself and Your Marriage
+* Surround Yourself With Supportive People
+* Play and Pray Together
+* Reminisce Over Photos About the Good Ole Days
+* Write Down Your Marital Goals
+* Occupy Your Mind with Positive Videos, Books, and Hobbies
+* Stop Complaining To Friends and Family
+* Get Spiritually Grounded
+* Spend Time Alone Away From Outside Influences
+* Focus On Turning Your Own Weaknesses Into Strengths
 
 It will be equally as complicated to maneuver back to the beaten path as it was to detour onto the rocky uncharted territory.
 
@@ -246,4 +202,4 @@ When you got married, everything changed, the husband even gives his own name to
 
 Getting back on the right path will not be easy, but it will be worth it, because having a wedding is what we do, but marriage is who we are.
 
-Remember, hang in there, because this is not the end.
+Hang in there, this is not the end.
