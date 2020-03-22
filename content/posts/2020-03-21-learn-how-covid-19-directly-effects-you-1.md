@@ -1,6 +1,6 @@
 ---
-title: LEARN HOW COVID-19 DIRECTLY EFFECTS YOU
-Subtitle: Is This A Novel Virus Or An Economically Induced Pandemic
+title: OUR WORLD TODAY
+Subtitle: How the Virus is Effecting Baby Boomers
 category: ENVIRONMENTAL
 cover: /images/uploads/cdc-iozc-2tpcjy-unsplash.jpg
 portrait: /images/uploads/anthony-dark.jpg
