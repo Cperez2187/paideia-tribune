@@ -5,9 +5,8 @@ category: SPIRITUAL
 cover: /images/uploads/samuel-martins-3u7hcqkibb4-unsplash.jpg
 portrait: /images/uploads/cameron-jones.jpg
 author: "Cameron Jones "
-about: is the former senior pastor of The Rock Church in Evansville, Indiana.
-  Upon graduating from the University of Southern Indiana, he continues with his
-  passion to teach others how to practically apply God’s word in daily living.
+about: "is a husband, father, and disciple of Jesus Christ. Cameron is currently
+  pursuing a MA in Systematic Theology at Wheaton College. "
 ---
 One of the most important decisions that you'll ever make as a Christian is choosing a church home. The church you choose to be a part of will either help or hinder your growth as a follower of Jesus Christ.
 
